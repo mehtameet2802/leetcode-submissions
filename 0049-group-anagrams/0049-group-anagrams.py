@@ -41,8 +41,4 @@ class Solution:
             
             k_map[tuple(key)].append(word)
         
-        ans = []
-        for key, item in k_map.items():
-            ans.append(item)
-        
-        return ans
+        return list(k_map.values())

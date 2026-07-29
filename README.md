@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

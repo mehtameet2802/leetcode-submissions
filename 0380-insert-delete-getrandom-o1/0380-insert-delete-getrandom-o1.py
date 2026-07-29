@@ -39,7 +39,7 @@ class RandomizedSet:
     """
     Pattern - Use space to reduce time
 
-    TC - O(1) - for first all 3
+    TC - O(1) - for all 3
     SC - O(n)
 
     """
@@ -62,9 +62,16 @@ class RandomizedSet:
         if val not in self.e_map:
             return False
         
+
         ind = self.e_map[val]
+        last = self.arr[-1]
+
+        self.arr[ind] = last
+        self.e_map[last] = ind
+
         self.e_map.pop(val)
-        self.arr.remove(val)
+        self.arr.pop()
+
         return True
         
 

@@ -1,5 +1,12 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
+
+        '''
+        Pattern - Floyd Cycle Algorithm
+
+        TC - O(n)
+        SC - O(1)
+        '''
         
         slow = nums[0]
         fast = nums[0]

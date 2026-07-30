@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |

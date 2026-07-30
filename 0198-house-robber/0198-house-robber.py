@@ -1,7 +1,7 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         # '''
-        # Pattern - Recursion
+        # Pattern - Recursion + DP
 
         # TC - O(n)
         # SC - O(n)
@@ -24,7 +24,7 @@ class Solution:
 
 
         '''
-        Pattern - Recursion
+        Pattern - DP
 
         TC - O(n)
         SC - O(1)
@@ -41,4 +41,4 @@ class Solution:
             cur = max(nums[i]+last,prev1)
             last, prev1 = prev1, cur
         
-        return max(last, prev1)
+        return prev1

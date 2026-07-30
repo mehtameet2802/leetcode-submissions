@@ -3,24 +3,36 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        r = 0
+        # r = 0
 
-        while r<len(nums):
-            if nums[r]!=0:
-                r+=1
+        # while r<len(nums):
+        #     if nums[r]!=0:
+        #         r+=1
+        #         continue
+            
+        #     w = r+1
+
+        #     while w<len(nums) and nums[w]==0:
+        #         w+=1
+            
+        #     if w<len(nums):
+        #         nums[r], nums[w] = nums[w], nums[r]
+        #     else:
+        #         break
+
+        #     r+=1
+
+        l = 0
+        for num in nums:
+            if num == 0:
                 continue
-            
-            w = r+1
 
-            while w<len(nums) and nums[w]==0:
-                w+=1
-            
-            if w<len(nums):
-                nums[r], nums[w] = nums[w], nums[r]
-            else:
-                break
-
-            r+=1
+            nums[l] = num
+            l+=1
+                
+        while l<len(nums):
+            nums[l] = 0
+            l+=1
 
 
             

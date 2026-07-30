@@ -2,7 +2,7 @@ class Solution:
     def isHappy(self, n: int) -> bool:
 
         # '''
-        # TC - O(n*len(n))
+        # TC - O(log n)
         # SC - O(n)
         # '''
 

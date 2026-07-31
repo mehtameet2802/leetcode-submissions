@@ -14,10 +14,10 @@ class Solution:
         while r>=0:
             if nums[r]+r>=target:
                 target = r
-                arr[r] = 1
+                ans = True
             else:
-                arr[r]=0
+                ans = False
 
             r-=1
 
-        return True if arr[0]==1 else False
+        return ans

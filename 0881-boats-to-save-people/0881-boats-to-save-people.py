@@ -1,6 +1,14 @@
 class Solution:
     def numRescueBoats(self, people: List[int], limit: int) -> int:
-        people = sorted(people)
+
+        '''
+        Pattern - 2 pointer
+
+        TC - O(nlogn)
+        SC - O(1)
+        '''
+
+        people.sort()
 
         l = 0
         r = len(people)-1

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0485-max-consecutive-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |

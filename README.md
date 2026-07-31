@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)

@@ -5,24 +5,15 @@ class Solution:
             return False
 
         i = 0
-        cnt = 1
-        while i<n-1:
-            if arr[i]<arr[i+1]:
-                i+=1
-                cnt += 1
-                continue
-            break
+        while i<n-1 and arr[i]<arr[i+1]:
+            i+=1
+
         
-        if i == n-1:
+        if i==0 or i == n-1:
             return False
 
-        cnt = 1
-        while i<n-1:
-            if arr[i]>arr[i+1]:
-                i+=1
-                cnt+=1
-                continue
-            break
+        while i<n-1 and arr[i]>arr[i+1]:
+            i+=1
             
-        return i == n-1 and cnt!=n
+        return i==n-1
 

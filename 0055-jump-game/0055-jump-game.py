@@ -1,5 +1,13 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
+
+        '''
+        Pattern - Greedy
+
+        TC - O(n)
+        SC - O(1)
+        '''
+
         if len(nums)<2:
             return True
         
@@ -18,3 +26,26 @@ class Solution:
             r-=1
 
         return ans
+
+        '''
+        Pattern - Greedy
+
+        TC - O(n)
+        SC - O(1)
+        '''
+
+        if len(nums)<2:
+            return True
+        
+        r = len(nums)-2
+
+        target = r+1
+
+        while r>=0:
+            if nums[r]+r>=target:
+                target = r
+                ans = True
+
+            r-=1
+
+        return target == 0

@@ -5,9 +5,6 @@ class Solution:
         
         r = len(nums)-2
 
-        arr = [0]*len(nums)
-        arr[-1] = 1
-
         target = r+1
         ans = False
 

@@ -2,6 +2,13 @@ from collections import defaultdict
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+
+        '''
+        Pattern - Hash Set + Matrix Traversal
+
+        TC - O(R*C)
+        SC - O(1)
+        '''
         
         ROWS = len(board)
         COLS = len(board[0])

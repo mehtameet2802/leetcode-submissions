@@ -12,9 +12,6 @@ class Solution:
         
         for i in range(len(nums)-2,-1,-1):
             suf_sum[i] = nums[i+1] + suf_sum[i+1]
-        
-        print(pre_sum)
-        print(suf_sum)
 
         for i in range(len(nums)):
             if pre_sum[i] == suf_sum[i]:

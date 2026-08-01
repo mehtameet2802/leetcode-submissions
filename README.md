@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
 |  |
 | ------- |

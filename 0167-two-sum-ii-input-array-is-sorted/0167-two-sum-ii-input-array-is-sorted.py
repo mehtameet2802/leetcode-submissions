@@ -1,5 +1,14 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
+
+        '''
+        Pattern - 2 Pointer
+
+        TC - O(N)
+        SC - O(1)
+        '''
+
+
         l = 0
         r = len(numbers) - 1
 

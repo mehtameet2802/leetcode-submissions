@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0042-trapping-rain-water) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0088-merge-sorted-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |

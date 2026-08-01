@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0198-house-robber) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0283-move-zeroes) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0704-binary-search) |

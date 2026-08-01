@@ -7,8 +7,9 @@ class Solution:
         # Pattern - Frequency Count
 
         # N - len(nums)
+        # M - unique elements
         # TC - O(N + M log M)
-        # SC - O(N)
+        # SC - O(M)
         # '''
 
         # f_map = Counter(nums)
@@ -31,7 +32,7 @@ class Solution:
         N - len(nums)
         M - unique elements
         TC - O(N + M log k)
-        SC - O(N)
+        SC - O(M + k)
         '''
 
         f_map = Counter(nums)

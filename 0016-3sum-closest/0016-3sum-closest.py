@@ -1,5 +1,13 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
+
+        '''
+        Pattern - Sorting + 2 pointer
+
+        TC - O(N^2)
+        SC - O(1)
+        '''
+
         if len(nums) == 3:
             return sum(nums)
         
@@ -8,14 +16,11 @@ class Solution:
         diff = float('inf')
 
         for i in range(len(nums)):
-            if i>0 and nums[i] == nums[i-1]:
-                continue
             
             l = i+1
             r = len(nums)-1
             find = target - nums[i] 
             
-
             while l<r:
                 d1 = find - nums[l] - nums[r] 
                 if nums[l] + nums[r] < find:

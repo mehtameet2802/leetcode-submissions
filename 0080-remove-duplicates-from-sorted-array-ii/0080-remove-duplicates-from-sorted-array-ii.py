@@ -1,5 +1,12 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
+        '''
+        Pattern - 2 pointer, fast & slow pointer
+
+        TC - O(N)
+        SC - O(1)
+        '''
+
         w = 0
         r = 0
 

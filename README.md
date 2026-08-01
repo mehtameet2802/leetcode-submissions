@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |

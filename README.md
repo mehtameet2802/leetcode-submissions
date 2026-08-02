@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0565-array-nesting) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 ## Queue

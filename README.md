@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1029-two-city-scheduling) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Dynamic Programming
 |  |

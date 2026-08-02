@@ -4,18 +4,15 @@ class Solution:
     def longestPalindrome(self, s: str) -> int:
         f_map = Counter(s)
 
-        ch_cnt = len(f_map.values())
-
         ans = 0
+        odd = False
         for ch, f in f_map.items():
-            if f%2 == 0:
-                ans += f
-                ch_cnt -= 1
-            else:
-                ans += (f//2)*2
-                f_map[ch] = 1
+            ans += (f//2)*2
+
+            if f%2:
+                odd = True
         
-        if ch_cnt:
+        if odd:
             return ans+1
         return ans
         

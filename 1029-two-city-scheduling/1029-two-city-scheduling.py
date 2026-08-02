@@ -5,7 +5,7 @@ class Solution:
         Pattern - Greedy
 
         TC - O(N logN)
-        SC - O(N)
+        SC - O(1)
         '''
         
         diff = [0]*len(costs)

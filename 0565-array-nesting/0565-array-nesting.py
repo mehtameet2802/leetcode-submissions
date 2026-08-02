@@ -1,16 +1,23 @@
 class Solution:
     def arrayNesting(self, nums: List[int]) -> int:
-        seen = set()
+
+        '''
+        Pattern - Graph or Cyclic Traversal
+
+        TC - O(N)
+        SC - O(N)
+        '''
 
         ans = 0
 
         for i in range(len(nums)):
-            if i not in seen:
+            if nums[i] != -1:
                 cur = i
                 length = 0
-                while cur not in seen:
-                    seen.add(cur)
-                    cur = nums[cur]
+                while nums[cur] != -1:
+                    next = nums[cur]
+                    nums[cur] = -1
+                    cur = next
                     length += 1
                 ans = max(ans, length)
             

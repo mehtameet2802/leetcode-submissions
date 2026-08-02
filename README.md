@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0169-majority-element) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0860-lemonade-change) |

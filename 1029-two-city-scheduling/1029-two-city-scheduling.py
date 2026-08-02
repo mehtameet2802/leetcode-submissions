@@ -13,13 +13,13 @@ class Solution:
         for i, ele in enumerate(costs):
             a = ele[0]
             b = ele[1]
-            diff[i] = (ele[0]-ele[1],a,b)
+            costs[i] = (ele[0]-ele[1],a,b)
         
-        diff.sort(key=lambda x:x[0])
+        costs.sort(key=lambda x:x[0])
 
         cost = 0
         n = len(costs)//2
-        for i, ele in enumerate(diff):
+        for i, ele in enumerate(costs):
             if i < n:
                 cost += ele[1]
             else:

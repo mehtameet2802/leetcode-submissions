@@ -5,7 +5,7 @@ class Solution:
         Pattern - Graph or Cyclic Traversal
 
         TC - O(N)
-        SC - O(N)
+        SC - O(1)
         '''
 
         ans = 0

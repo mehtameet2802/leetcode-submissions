@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->

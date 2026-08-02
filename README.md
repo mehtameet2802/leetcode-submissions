@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 ## Stack
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+| [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 ## Counting

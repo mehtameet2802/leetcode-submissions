@@ -3,6 +3,14 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
+
+        '''
+        Pattern - Matrix Iteration - Directions
+
+        TC - O(R*C)
+        SC - O(R*C)
+        '''
+
         dead = []
         live = []
         ROWS = len(board)
@@ -11,7 +19,7 @@ class Solution:
         dirs = [[0,1],[0,-1],[1,0],[-1,0],[1,1],[-1,-1],[1,-1],[-1,1]]
 
         def helper(r,c):
-            l = e = 0 
+            l = 0 
             for dr, dc in dirs:
                 nr = r + dr
                 nc = c + dc
@@ -21,8 +29,6 @@ class Solution:
 
                 if board[nr][nc] == 1:
                     l += 1
-                else:
-                    e += 1
 
             if board[r][c]:
                 if l>3 or l<2:

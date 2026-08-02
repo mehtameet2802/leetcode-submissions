@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0665-non-decreasing-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0724-find-pivot-index) |

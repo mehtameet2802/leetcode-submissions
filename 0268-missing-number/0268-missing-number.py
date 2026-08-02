@@ -7,6 +7,15 @@ class Solution:
         TC - O(N)
         SC - O(1)
         '''
+
+        ans = sum(nums)
+        n = len(nums)
+
+        total = n*(n+1)//2
+        ans = total-ans
+        
+        return ans
+
         
         ans = len(nums)
 

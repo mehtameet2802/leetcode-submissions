@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Stack
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Sliding Window
 |  |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1720-decode-xored-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1720-decode-xored-array) |
 | [1734-decode-xored-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1734-decode-xored-permutation) |
 ## Shortest Path
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |

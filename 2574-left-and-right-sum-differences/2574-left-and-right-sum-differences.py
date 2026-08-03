@@ -1,5 +1,13 @@
 class Solution:
     def leftRightDifference(self, nums: List[int]) -> List[int]:
+
+        '''
+        Pattern - Prefix & Suffix Sum
+
+        TC - O(N)
+        SC - O(1)
+        '''
+
         ans = []
         pre_sum = 0
         total = sum(nums)

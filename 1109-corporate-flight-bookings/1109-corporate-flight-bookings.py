@@ -1,5 +1,13 @@
 class Solution:
     def corpFlightBookings(self, bookings: List[List[int]], n: int) -> List[int]:
+
+        '''
+        Pattern - Differnce Array
+
+        TC - O(N)
+        SC - O(N)
+        ''' 
+
         arr = [0]*(n+2)
 
         for ele in bookings:

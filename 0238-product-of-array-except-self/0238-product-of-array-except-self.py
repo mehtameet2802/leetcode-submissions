@@ -2,9 +2,11 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
 
         '''
-        Pattern - Pre + Suf
+        Pattern - Prefix Product + Suffix Product
+
         TC - O(N)
-        SC - O(N)
+        SC - O(1) auxiliary
+             O(N) including output
         '''
 
         n = len(nums)

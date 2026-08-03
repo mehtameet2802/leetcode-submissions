@@ -1,5 +1,12 @@
 class Solution:
     def sumOfBeauties(self, nums: List[int]) -> int:
+
+        '''
+        Pattern - Prefix Max + Suffix Min
+
+        TC - O(N)
+        SC - O(N)
+        '''
         
         n = len(nums)
         pre = [0]*n

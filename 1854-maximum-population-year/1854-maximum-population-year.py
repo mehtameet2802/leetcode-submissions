@@ -1,5 +1,12 @@
 class Solution:
     def maximumPopulation(self, logs: List[List[int]]) -> int:
+
+        '''
+        Pattern - Difference Array
+        TC - O(N + 101)
+        SC - O(101)
+        '''
+
         arr = [0]*101
 
         for log in logs:

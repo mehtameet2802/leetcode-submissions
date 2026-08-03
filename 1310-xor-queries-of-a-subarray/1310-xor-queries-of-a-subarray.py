@@ -1,10 +1,15 @@
 class Solution:
     def xorQueries(self, arr: List[int], queries: List[List[int]]) -> List[int]:
+        
+        '''
+        Pattern - Prefix XOR
+        
+        TC - O(N + Q) - Q is len of queries 
+        SC - O(N)
+        '''
+        
         ans = []
         pre_xor = [0]*len(arr)
-
-        
-
         for i, ele in enumerate(arr):
             if i == 0:
                 pre_xor[0] = arr[0]

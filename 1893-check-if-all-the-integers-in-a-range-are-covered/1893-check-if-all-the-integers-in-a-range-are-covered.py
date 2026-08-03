@@ -1,5 +1,12 @@
 class Solution:
     def isCovered(self, ranges: List[List[int]], left: int, right: int) -> bool:
+
+        '''
+        Pattern - Difference Arrat
+
+        TC - O(N+52)
+        SC - O(52)
+        '''
         
         arr = [0] * 52
 

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1854-maximum-population-year](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
+| [1854-maximum-population-year](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1854-maximum-population-year) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1854-maximum-population-year](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2256-minimum-average-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2256-minimum-average-difference) |

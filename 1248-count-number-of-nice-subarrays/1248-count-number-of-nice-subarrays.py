@@ -5,7 +5,7 @@ class Solution:
         Pattern - Prefix Sum
 
         TC - O(N)
-        SC - O(k) - number of frequent odd numbers
+        SC - O(N) - number of frequent odd numbers, at worst all numbers are odd
         '''
         
         seen = defaultdict(int)

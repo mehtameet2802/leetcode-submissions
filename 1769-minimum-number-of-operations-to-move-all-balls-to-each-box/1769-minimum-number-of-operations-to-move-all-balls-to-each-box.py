@@ -35,7 +35,7 @@ class Solution:
         Pattern - Prefix and Suffix Count and Sum
 
         TC - O(N)
-        SC - O(N)
+        SC - O(1)
         '''
 
         n = len(boxes)

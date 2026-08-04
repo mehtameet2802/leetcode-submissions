@@ -35,8 +35,6 @@ class Solution:
         
         head2 = prev
 
-        dummy = head
-
         while head and head2:
             temp = head.next
             head.next = head2
@@ -45,5 +43,3 @@ class Solution:
             temp = head2.next
             head2.next = head
             head2 = temp
-        
-        return dummy

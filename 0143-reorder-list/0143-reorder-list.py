@@ -9,6 +9,13 @@ class Solution:
         Do not return anything, modify head in-place instead.
         """
         
+        '''
+        Pattern - Divide in 2 parts and merge
+
+        TC - O(N)
+        SC - O(1) 
+        '''
+
         slow = head
         fast = head.next
 

@@ -2,6 +2,13 @@ from collections import defaultdict
 
 class Solution:
     def splitPainting(self, segments: List[List[int]]) -> List[List[int]]:
+        '''
+        Pattern - Sweep Line + Difference Map
+
+        TC - O(N log N)
+        SC - O(N)
+        '''
+
         events = defaultdict(int)
 
         for s,e,color in segments:

@@ -1,5 +1,13 @@
 class Solution:
     def numTeams(self, rating: List[int]) -> int:
+
+        '''
+        Patter - Fix Middle + Counting
+
+        TC - O(N^2)
+        SC - O(1)
+        '''
+
         ans = 0
         n = len(rating)
 

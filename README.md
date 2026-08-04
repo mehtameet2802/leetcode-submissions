@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0860-lemonade-change) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
 ## Graph Theory
 |  |
 | ------- |

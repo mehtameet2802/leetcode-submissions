@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0566-reshape-the-matrix) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |

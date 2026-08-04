@@ -1,6 +1,13 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
 
+        '''
+        Pattern - Expande from Centre
+
+        TC - O(N^2)
+        SC - O(1)
+        '''
+
         def expand(i,j):
 
             while i>=0 and j<len(s) and s[i] == s[j]:

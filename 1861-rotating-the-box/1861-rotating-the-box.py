@@ -1,5 +1,12 @@
 class Solution:
     def rotateTheBox(self, boxGrid: List[List[str]]) -> List[List[str]]:
+        '''
+        Pattern - Two Pointers + Matrix Rotation
+
+        TC - O(R * C)
+        SC - O(R * C)
+        '''
+
         r = len(boxGrid)
         c = len(boxGrid[0])
 

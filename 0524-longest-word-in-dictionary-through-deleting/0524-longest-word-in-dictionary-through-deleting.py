@@ -1,5 +1,13 @@
 class Solution:
     def findLongestWord(self, s: str, dictionary: List[str]) -> str:
+
+        '''
+        Pattern - 2 Pointer
+
+        N - len(dictionary)
+        TC - O(N*len(s))
+        SC - O(1)
+        '''
         
         ans = ""
 

@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1395-count-number-of-teams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-decode-xored-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
+| [1395-count-number-of-teams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -464,4 +466,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->

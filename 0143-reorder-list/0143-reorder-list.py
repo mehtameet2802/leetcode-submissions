@@ -10,14 +10,14 @@ class Solution:
         """
         
         slow = head
-        fast = head
+        fast = head.next
 
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         
-        head2 = slow.next
-        slow.next = None
+        head2 = slow
+        slow = None
 
         prev = None
         while head2:

@@ -6,6 +6,13 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+
+        '''
+        Pattern - Cycle Detection
+        
+        TC - O(N)
+        SC - O(1)
+        '''
         
         if not head or not head.next:
             return None

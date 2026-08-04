@@ -1,7 +1,7 @@
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
         '''
-        TC - O(U log U)
+        TC - O(N + U log U)
         SC - O(U) - Unique elements
         '''
 

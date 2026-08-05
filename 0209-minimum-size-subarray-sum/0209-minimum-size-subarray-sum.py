@@ -1,6 +1,13 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         
+        '''
+        Pattern - Sliding Window
+
+        TC - O(N)
+        SC - O(1)
+        '''
+
         left = 0
         ans = float('inf')
         cur = 0

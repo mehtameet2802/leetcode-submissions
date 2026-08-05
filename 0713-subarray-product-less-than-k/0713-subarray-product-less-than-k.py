@@ -1,5 +1,12 @@
 class Solution:
     def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
+
+        '''
+        Pattern - Sliding Window
+        
+        TC - O(N)
+        SC - O(1)
+        '''
         
         left = 0
         ans = 0

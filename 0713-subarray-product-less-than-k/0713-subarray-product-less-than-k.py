@@ -7,6 +7,9 @@ class Solution:
         TC - O(N)
         SC - O(1)
         '''
+
+        if k<=1:
+            return 0
         
         left = 0
         ans = 0

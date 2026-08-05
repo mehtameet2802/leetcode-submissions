@@ -1,5 +1,12 @@
 class Solution:
     def longestSubarray(self, nums: List[int]) -> int:
+        '''
+        Pattern - Sliding window
+
+        TC - O(N)
+        SC - O(1)
+        '''
+        
         left = 0
         ans = 0
         cnt = 0

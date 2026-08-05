@@ -1,5 +1,12 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
+        '''
+        Pattern - Fixed length Sliding Window
+
+        TC - O(N)
+        SC - O(1)
+        '''
+
         arr_s1 = [0]*26
 
         for ch in s1:

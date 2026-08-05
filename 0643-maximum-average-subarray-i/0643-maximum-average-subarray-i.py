@@ -17,11 +17,10 @@ class Solution:
 
             if right - left + 1 == k:
                 
-                avg = total / k
-                ans = max(ans,avg)
+                ans = max(ans,total)
 
                 total -= nums[left]
                 
                 left += 1
 
-        return ans
+        return ans/k

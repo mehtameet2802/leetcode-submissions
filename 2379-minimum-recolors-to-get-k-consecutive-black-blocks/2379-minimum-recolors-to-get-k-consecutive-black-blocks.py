@@ -1,5 +1,12 @@
 class Solution:
     def minimumRecolors(self, blocks: str, k: int) -> int:
+
+        '''
+        Pattern - Fixed Sliding Window
+        TC - O(N)
+        SC - O(1)
+        '''
+
         left = 0
         ans = len(blocks)+1
         w_blocks = 0

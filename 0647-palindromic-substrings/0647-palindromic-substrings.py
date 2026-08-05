@@ -3,7 +3,7 @@ class Solution:
         '''
         Pattern - Exoand Around the Center
 
-        TC - 
+        TC - O(N^2)
         SC - O(1)
         '''
 

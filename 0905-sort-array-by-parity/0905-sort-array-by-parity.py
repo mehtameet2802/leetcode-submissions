@@ -13,9 +13,7 @@ class Solution:
         mid = 0
 
         while mid < R:
-            if nums[mid] == 0:
-                mid += 1
-            elif nums[mid] % 2 == 0:
+            if nums[mid] % 2 == 0:
                 nums[L], nums[mid] = nums[mid], nums[L]
                 L += 1
                 mid += 1

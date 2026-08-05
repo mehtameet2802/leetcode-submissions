@@ -4,7 +4,7 @@ class Solution:
         Pattern - Sliding Window
         
         TC - O(N)
-        SC - O(1)
+        SC - O(k)
         '''
 
         f_map = defaultdict(int)

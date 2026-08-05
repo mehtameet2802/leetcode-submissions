@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
 | [1029-two-city-scheduling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1029-two-city-scheduling) |
 | [1052-grumpy-bookstore-owner](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1052-grumpy-bookstore-owner) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Math
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |

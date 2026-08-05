@@ -18,7 +18,7 @@ class Solution:
         for right in range(len(nums)):
             cur *= nums[right]
 
-            while cur >= k and left < right:
+            while cur >= k:
                 cur = cur / nums[left]
                 left += 1
             

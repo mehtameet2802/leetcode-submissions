@@ -1,5 +1,12 @@
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
+
+        '''
+        Pattern - 2 Pointer fixed window
+
+        TC - O(N)
+        SC - O(1)
+        '''
         
         left = 0
         total = 0

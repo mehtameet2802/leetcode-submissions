@@ -22,6 +22,6 @@ class Solution:
                 cur -= cardPoints[left]
                 left += 1
         
-        if k == len(cardPoints):
+        if window == 0:
             return ans
         return total - ans

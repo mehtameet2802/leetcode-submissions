@@ -1,5 +1,12 @@
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
+        '''
+        Pattern - Dutch National Flag/2 way Partitioning
+
+        TC - O(N)
+        SC - O(1)
+        '''
+
         n = len(nums)
         L = 0
         R = n

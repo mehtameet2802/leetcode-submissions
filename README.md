@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2574-left-and-right-sum-differences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |

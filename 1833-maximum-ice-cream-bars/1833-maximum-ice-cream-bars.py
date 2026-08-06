@@ -36,11 +36,11 @@ class Solution:
         for cost in costs:
             freq[cost] += 1
 
-        for i,_ in enumerate(freq):
+        for cost, _ in enumerate(freq):
             
-            while freq[i]>0 and coins >= i:
-                coins -= i
-                freq[i] -= 1
+            while freq[cost]>0 and coins >= cost:
+                coins -= cost
+                freq[cost] -= 1
                 ans += 1
         
         return ans

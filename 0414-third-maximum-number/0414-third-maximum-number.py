@@ -25,7 +25,7 @@ class Solution:
         #     return nums[-1]
 
         '''
-        Pattern - Sort + Scan
+        Pattern - Top KTracking
 
         TC - O(N)
         SC - O(1)
@@ -38,17 +38,17 @@ class Solution:
             if num == first or num == second or num == third:
                 continue
             
-            if first is None or num > first:
+            if first == None or num > first:
                 third = second
                 second = first
                 first = num
             
-            elif second is None or num > second:
+            elif second == None or num > second:
                 third = second
                 second = num
             
-            elif third is None or num > third:
+            elif third == None or num > third:
                 third = num
             
         
-        return first if third is None else third
+        return first if third == None else third

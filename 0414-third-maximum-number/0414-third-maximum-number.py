@@ -25,7 +25,7 @@ class Solution:
         #     return nums[-1]
 
         '''
-        Pattern - Top KTracking
+        Pattern - Top K Tracking
 
         TC - O(N)
         SC - O(1)

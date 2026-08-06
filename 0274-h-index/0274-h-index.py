@@ -49,4 +49,3 @@ class Solution:
             if papers >= h:
                 return h
         
-        return 0

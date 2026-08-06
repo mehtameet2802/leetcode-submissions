@@ -1,5 +1,12 @@
 class Solution:
     def continuousSubarrays(self, nums: List[int]) -> int:
+        '''
+        Pattern - Variable Sliding Window + Deque
+
+        TC - O(N)
+        SC - O(N)
+        '''
+
         minQ = deque([])
         maxQ = deque([])
 

@@ -28,8 +28,8 @@ class Solution:
         '''
         Pattern - Sort + Scan
 
-        TC - O(N log N)
-        SC - O(K)
+        TC - O(n+m)
+        SC - O(n)
         '''
 
         f_map = defaultdict(int)
@@ -42,5 +42,5 @@ class Solution:
             if f_map[num] > 0:
                 f_map[num] -= 1
                 ans.append(num)
-                
+
         return ans

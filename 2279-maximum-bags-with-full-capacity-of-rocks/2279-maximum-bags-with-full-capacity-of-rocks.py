@@ -4,24 +4,22 @@ class Solution:
         Pattern - Sort + Greedy
 
         TC - O(N log N)
-        SC - O(N)
+        SC - O(1)
         '''
 
-        diff = []
-
-        for c,r in zip(capacity,rocks):
-            diff.append(c-r)
+        for i in range(len(capacity)):
+            capacity[i] -= rocks[i]
         
-        diff.sort()
+        capacity.sort()
 
-        for i in range(len(diff)):
-            if diff[i] == 0:
+        for i in range(len(capacity)):
+            if capacity[i] == 0:
                 continue
             
-            if diff[i] <= additionalRocks:
-                additionalRocks -= diff[i]
+            if capacity[i] <= additionalRocks:
+                additionalRocks -= capacity[i]
             else:
                 return i
         
-        return len(diff)
+        return len(capacity)
 

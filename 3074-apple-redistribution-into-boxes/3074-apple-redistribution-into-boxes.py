@@ -1,5 +1,12 @@
 class Solution:
     def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:
+
+        '''
+        Pattery - Sum + Greedy
+        TC - O(N + M log M)
+        SC - O(1)
+        '''
+
         target = sum(apple)
 
         capacity.sort(reverse = True)

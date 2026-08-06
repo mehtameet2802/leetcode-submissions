@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0324-wiggle-sort-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0436-find-right-interval](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0436-find-right-interval) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |

@@ -1,5 +1,14 @@
 class Solution:
     def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
+        '''
+        Pattern - Custom Sort
+
+        U - number of unique N
+
+        TC - O(N + U log U)
+        SC - O(U)
+        '''
+
         ans = []
 
         f_map = Counter(arr1)

@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0566-reshape-the-matrix) |
 | [0611-valid-triangle-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0611-valid-triangle-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0561-array-partition](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -624,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

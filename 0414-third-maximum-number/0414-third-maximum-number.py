@@ -22,5 +22,5 @@ class Solution:
                 return nums[i]
             
         if cnt < 3:
-            return max(nums)
+            return nums[-1]
 

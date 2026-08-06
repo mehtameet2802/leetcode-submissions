@@ -1,18 +1,46 @@
 class Solution:
     def maxIceCream(self, costs: List[int], coins: int) -> int:
+        # '''
+        # Pattern - Sort + Greedy
 
-        if sum(costs) < coins:
-            return len(costs)
+        # TC - O(n log n)
+        # SC - O(1)
+        # '''
 
-        costs.sort()
+        # if sum(costs) < coins:
+        #     return len(costs)
 
-        if costs[0] > coins:
-            return 0
+        # costs.sort()
+
+        # if costs[0] > coins:
+        #     return 0
         
-        cur = 0
-        for i, cost in enumerate(costs):
-            cur += cost
-            if cur > coins:
-                return i
+        # cur = 0
+        # for i, cost in enumerate(costs):
+        #     cur += cost
+        #     if cur > coins:
+        #         return i
 
-        return len(costs)
+        # return len(costs)
+
+        '''
+        Pattern - Counting Sort
+
+        TC - O(n)
+        SC - O(1)
+        '''
+
+        freq = [0]*100001
+        ans = 0
+
+        for cost in costs:
+            freq[cost] += 1
+
+        for i,_ in enumerate(freq):
+            
+            while freq[i]>0 and coins >= i:
+                coins -= i
+                freq[i] -= 1
+                ans += 1
+        
+        return ans

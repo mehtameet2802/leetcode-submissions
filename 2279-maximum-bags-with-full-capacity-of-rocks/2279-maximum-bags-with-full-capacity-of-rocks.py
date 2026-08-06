@@ -1,5 +1,12 @@
 class Solution:
     def maximumBags(self, capacity: List[int], rocks: List[int], additionalRocks: int) -> int:
+        '''
+        Pattern - Sort + Greedy
+
+        TC - O(N log N)
+        SC - O(N)
+        '''
+
         diff = []
 
         for c,r in zip(capacity,rocks):

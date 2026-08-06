@@ -31,7 +31,7 @@ class Solution:
         # return ans
 
         '''
-        Pattern - Sort + Scan
+        Pattern - Hashset
 
         TC - O(N)
         SC - O(N)

@@ -1,5 +1,10 @@
 class Solution:
     def findLongestChain(self, pairs: List[List[int]]) -> int:
+        '''
+        Pattern - Sort + Greedy
+        TC - O(N log N)
+        SC - O(1)
+        '''
         pairs.sort(key = lambda x: x[1])
 
         ans = 1

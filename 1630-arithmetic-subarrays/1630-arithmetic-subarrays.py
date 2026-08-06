@@ -3,7 +3,7 @@ class Solution:
         '''
         Pattern - Sort + Scan
 
-        TC - O(M log M)
+        TC - O(N*(M log M))
         SC - O(1)
         '''
 

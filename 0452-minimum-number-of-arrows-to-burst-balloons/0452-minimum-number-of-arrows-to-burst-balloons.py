@@ -4,15 +4,14 @@ class Solution:
         points.sort()
         arrows = 1
 
-        start, end = points[0]
+        end = points[0][1]
 
         for s,e in points[1:]:
 
             if s > end:
                 arrows += 1
-                start, end = s, e
+                end = e
             else:
-                start = max(start,s)
                 end = min(end,e)
 
         return arrows 

@@ -1,6 +1,11 @@
 class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
-        
+        '''
+        Pattern - Sort + Greedy
+
+        TC - O(N log N)
+        SC - O(1)
+        '''
 
         nums.sort()
 

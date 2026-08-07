@@ -1,5 +1,17 @@
 class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
+        '''
+        Pattern - Sweep Line
+
+        TC - O(N log N)
+            - Create 2N events: O(N)
+            - Sort events: O(N log N)
+            - Sweep events: O(N)
+
+        SC - O(N)
+            - Stores 2N events
+        '''
+
         ans = 0
 
         events = []

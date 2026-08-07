@@ -1,5 +1,12 @@
 class MyCalendar:
 
+    '''
+    Pattern - Binary Search
+
+    TC - O(log n)
+    SC - O(n)
+    '''
+
     def __init__(self):
         self.arr = []
 

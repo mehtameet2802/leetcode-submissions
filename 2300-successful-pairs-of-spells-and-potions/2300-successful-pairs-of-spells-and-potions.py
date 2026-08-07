@@ -12,9 +12,6 @@ class Solution:
             start = bisect_left(potions, target)
             print(start)
 
-            if start == -1 or start == n:
-                ans.append(0)
-            else:
-                ans.append(n-start)
+            ans.append(n-start)
         
         return ans

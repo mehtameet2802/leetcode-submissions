@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2055-plates-between-candles](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2055-plates-between-candles) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2055-plates-between-candles](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2055-plates-between-candles) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2055-plates-between-candles](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2055-plates-between-candles) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
+| [2055-plates-between-candles](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2055-plates-between-candles) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2256-minimum-average-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2256-minimum-average-difference) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |

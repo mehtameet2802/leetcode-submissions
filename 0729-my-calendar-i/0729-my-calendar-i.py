@@ -3,7 +3,7 @@ class MyCalendar:
     '''
     Pattern - Binary Search
 
-    TC - O(log n)
+    TC - O(n + log n)
     SC - O(n)
     '''
 

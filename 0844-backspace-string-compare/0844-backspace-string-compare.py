@@ -3,8 +3,8 @@ class Solution:
         '''
         Pattern - Stack (Simulation)
 
-        TC - O(n)
-        SC - O(n)
+        TC - O(len(s) + len(t))
+        SC - O(max(len(s),len(t)))
         '''
         stack = []
 

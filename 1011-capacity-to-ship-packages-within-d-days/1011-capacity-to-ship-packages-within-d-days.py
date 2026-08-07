@@ -1,5 +1,11 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
+        '''
+        PAttern - Binary Search on ANswer
+        TC - TC - O(n * log(sum(weights)))
+        SC - O(1)
+        '''
+
         l = max(weights)
         r = sum(weights)
 

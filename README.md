@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2256-minimum-average-difference) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Depth-First Search
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Design
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
 | ------- |

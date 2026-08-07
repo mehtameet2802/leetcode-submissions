@@ -9,7 +9,7 @@ class Solution:
         if not nums:
             return [-1,-1]
 
-        if target > nums[-1]:
+        if target > nums[-1] or target < nums[0]:
             return [-1, -1]
 
         l = 0

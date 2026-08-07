@@ -1,5 +1,20 @@
 class Solution:
     def platesBetweenCandles(self, s: str, queries: List[List[int]]) -> List[int]:
+
+        '''
+        Pattern - Prefix Sum + Binary Search
+
+        Preprocessing
+        TC - O(N)
+        SC - O(N)
+
+        Each Query
+        TC - O(log C)
+
+        Overall
+        TC - O(N + Q log C)
+        SC - O(N)
+        '''
         
         candles_index = []
         prefix_sum = [0]*len(s)
@@ -18,8 +33,6 @@ class Solution:
         for start, end in queries:
             l = bisect_left(candles_index, start)
             r = bisect_right(candles_index, end) - 1
-
-            
 
             if l > r or l == len(candles_index):
                 ans.append(0)

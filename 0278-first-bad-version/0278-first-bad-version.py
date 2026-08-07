@@ -3,6 +3,12 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
+        '''
+        Pattern - Lower Bound
+
+        TC - O(log n)
+        SC - O(1)
+        '''
         
         l = 1
         r = n+1

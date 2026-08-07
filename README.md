@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Depth-First Search
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Design
 |  |
 | ------- |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Math
 |  |
 | ------- |

@@ -1,5 +1,11 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
+        '''
+        Pattern - Binary Search
+        TC - O(log n)
+        SC - O(1)
+        '''
+
         l = 0
         r = len(nums) - 1
 

@@ -1,5 +1,12 @@
 class Solution:
     def maxSubsequence(self, nums: List[int], k: int) -> List[int]:
+        '''
+        Pattern - Sort + Frequency Map
+
+        TC - O(n log n)
+        SC - O(k)
+        '''
+
         f_map = defaultdict(int)
         temp = sorted(nums)
 

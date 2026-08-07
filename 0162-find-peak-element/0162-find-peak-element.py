@@ -1,7 +1,7 @@
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
         '''
-        Pattern - Binary Search - go towards the direction where the uphill is increasing
+        Pattern - Binary Search - go towards the direction where the uphill is increasing, not using <= to avoid edge case index out of range
         TC - O(log n)
         SC - O(1)
         '''

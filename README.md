@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
 ## Quickselect
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |

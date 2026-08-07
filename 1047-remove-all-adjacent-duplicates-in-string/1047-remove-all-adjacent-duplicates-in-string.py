@@ -1,5 +1,12 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
+        '''
+        Pattern - Stack (Adjacent Cancellation)
+
+        TC - O(n)
+        SC - O(n)
+        '''
+       
         stack = []
 
         for ch in s:

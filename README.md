@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0704-binary-search) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |

@@ -1,6 +1,11 @@
 import math
 class Solution:
     def smallestDivisor(self, nums: List[int], threshold: int) -> int:
+        '''
+        Pattern - Binary Search on Answer / Parametric Search
+        TC - O(N log(max(nums))
+        SC - O(1) 
+        '''
         
         def cal(ele):
             ans = 0

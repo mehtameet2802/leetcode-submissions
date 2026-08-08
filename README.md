@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0567-permutation-in-string) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |

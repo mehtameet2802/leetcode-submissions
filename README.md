@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2055-plates-between-candles](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2055-plates-between-candles) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2337-move-pieces-to-obtain-a-string) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2055-plates-between-candles](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2055-plates-between-candles) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Indexed Tree

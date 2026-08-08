@@ -14,7 +14,7 @@ class Solution:
             
             return trips
 
-        l = 1
+        l = min(time)
         r = min(time)*totalTrips
 
         while l < r:

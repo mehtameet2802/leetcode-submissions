@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2390-removing-stars-from-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |

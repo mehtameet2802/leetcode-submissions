@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -834,5 +836,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

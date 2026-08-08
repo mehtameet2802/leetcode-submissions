@@ -12,9 +12,5 @@ class Solution:
                 continue
             
             stack.append([ch,1])
-
-        ans = []
-        for ch,cnt in stack:
-            ans.append(ch*cnt)
         
-        return "".join(ans)
+        return "".join( ch*cnt for ch,cnt in stack)

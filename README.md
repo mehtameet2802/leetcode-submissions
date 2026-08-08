@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1544-make-the-string-great](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -829,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1006-clumsy-factorial) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0729-my-calendar-i) |
+| [0901-online-stock-span](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |

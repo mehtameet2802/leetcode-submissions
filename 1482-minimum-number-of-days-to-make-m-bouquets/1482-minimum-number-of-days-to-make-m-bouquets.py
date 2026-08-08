@@ -3,7 +3,7 @@ class Solution:
         '''
         Pattern - BInary Search on Answer
 
-        TC - O(N log N)
+        TC - O(N log (max(bloomday) - min(bloomday)))
         SC - O(1)
         '''
 

@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1395-count-number-of-teams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1630-arithmetic-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
 ## Graph Theory
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |

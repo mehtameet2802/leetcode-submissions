@@ -5,8 +5,10 @@ class Solution:
         - Min Heap
         - Set for duplicate prevention
 
-        TC - O(n log n)
-        SC - O(n)
+        TC - O(n * p * log(n * p))
+        SC - O(n * p)
+
+        p = len(primes)
         '''
 
         min_heap = [1]

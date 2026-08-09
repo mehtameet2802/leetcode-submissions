@@ -17,23 +17,37 @@ class Solution:
         
         # return nums[:k]
 
-        stack = []
         n = len(nums)
-        ans = [-1]*n
-        
+        ans = [-1] * n
+        stack = []
 
-        for i in range(2*n):
+        # Traverse the array twice.
+        #
+        # First pass:
+        #   Find normal next greater elements.
+        #
+        # Second pass:
+        #   Allows elements near the end to find
+        #   a greater element near the beginning.
+        for i in range(2 * n):
+
             idx = i % n
 
+            # Current element is greater than the
+            # unresolved elements on the stack.
             while stack and nums[stack[-1]] < nums[idx]:
                 j = stack.pop()
                 ans[j] = nums[idx]
-            
-            if i < n:
-                stack.append(i)
-        
-        return ans
 
+            # Only put indices from the ORIGINAL array
+            # into the stack.
+            #
+            # We don't need to push during the second
+            # occurrence of the same index.
+            if i < n:
+                stack.append(idx)
+
+        return ans
 
 
         

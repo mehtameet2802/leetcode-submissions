@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0414-third-maximum-number) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0436-find-right-interval) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0611-valid-triangle-number) |

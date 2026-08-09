@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1854-maximum-population-year](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [1834-single-threaded-cpu](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1834-single-threaded-cpu](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |

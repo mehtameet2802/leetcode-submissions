@@ -11,7 +11,7 @@ class Solution:
 
         min_heap = [1]
         arr = [2,3,5]
-        seen = set()
+        seen = {1}
 
         while min_heap and n>1:
             ele = heapq.heappop(min_heap)

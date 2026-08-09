@@ -1,5 +1,18 @@
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
+        '''
+        Pattern:
+        - Heap Scheduling
+        - Sort by enqueue time
+        - Min Heap for available tasks
+        - Heap priority:
+            1. processing time
+            2. original index
+
+        TC - O(N log N)
+        SC - O(N)
+        '''
+
         min_heap = []
         
         # Store original index

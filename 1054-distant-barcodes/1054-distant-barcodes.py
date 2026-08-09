@@ -1,5 +1,19 @@
 class Solution:
     def rearrangeBarcodes(self, barcodes: List[int]) -> List[int]:
+        '''
+        Pattern:
+        - Greedy + Max Heap
+        - Always choose the most frequent available element
+        - If it equals the previous element,
+          choose the second most frequent element
+
+        N = total barcodes
+        U = unique barcodes
+
+        TC - O(N log U)
+        SC - O(U)
+        '''
+
         ans = []
 
         freq = Counter(barcodes)

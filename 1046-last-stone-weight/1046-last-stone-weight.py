@@ -2,6 +2,11 @@ import heapq
 
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
+        '''
+        TC: O(N log N)
+        SC: O(N)
+        '''
+
         max_heap = []
 
         for stone in stones:

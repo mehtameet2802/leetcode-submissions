@@ -1,5 +1,23 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
+        '''
+        Pattern:
+        - Max Heap
+        - Greedily choose highest-frequency character
+        - If it equals the previous character,
+          use the second-highest frequency character
+
+        N = len(s)
+        U = number of unique characters
+
+        TC - O(N log U)
+        SC - O(U)
+
+        Since English lowercase letters:
+        U <= 26
+        so practically this is O(N).
+        '''
+
         freq = Counter(s)
 
         max_heap = [(-f,key) for key, f in freq.items()]

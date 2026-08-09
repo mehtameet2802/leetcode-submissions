@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0441-arranging-coins) |

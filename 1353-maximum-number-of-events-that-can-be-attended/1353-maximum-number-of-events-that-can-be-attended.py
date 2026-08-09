@@ -1,5 +1,17 @@
 class Solution:
     def maxEvents(self, events: List[List[int]]) -> int:
+        '''
+        Pattern:
+        - Heap Scheduling
+        - Greedy
+        - Sort by start day
+        - Min Heap stores end days
+        - Each day attend the event
+          with the earliest end day
+
+        TC - O(N log N)
+        SC - O(N)
+        '''
         events.sort(key = lambda x:x[0])
         
         n = len(events)

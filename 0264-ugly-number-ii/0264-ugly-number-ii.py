@@ -1,5 +1,14 @@
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
+        '''
+        Pattern:
+        - Min Heap
+        - Set for duplicate prevention
+
+        TC - O(n log n)
+        SC - O(n)
+        '''
+
         min_heap = [1]
         arr = [2,3,5]
         seen = set()

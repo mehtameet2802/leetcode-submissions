@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0143-reorder-list) |

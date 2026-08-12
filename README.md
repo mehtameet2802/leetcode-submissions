@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1630-arithmetic-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1630-arithmetic-subarrays) |
+| [1642-furthest-building-you-can-reach](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1642-furthest-building-you-can-reach](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1882-process-tasks-using-servers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1642-furthest-building-you-can-reach](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |

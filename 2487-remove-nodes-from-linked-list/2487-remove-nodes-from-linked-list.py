@@ -19,10 +19,9 @@ class Solution:
         max_val = cur.val
         while cur and cur.next:
 
-            if cur.next.val < max_val:
+            if cur.next.val < cur.val:
                 cur.next = cur.next.next
             else:
-                max_val = cur.next.val
                 cur = cur.next
 
         prev = None

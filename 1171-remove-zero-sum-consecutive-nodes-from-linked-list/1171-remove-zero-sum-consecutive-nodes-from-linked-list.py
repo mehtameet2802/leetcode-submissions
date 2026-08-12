@@ -28,6 +28,17 @@ class Solution:
         # return dummy.next
 
 
+        '''
+        Pattern:
+        - Prefix Sum
+        - Hash Map
+        - Linked List
+        - Dummy Node
+
+        TC - O(N)
+        SC - O(N)
+        '''
+
         prefixSum = 0 
         prefixSumMap = {}
 

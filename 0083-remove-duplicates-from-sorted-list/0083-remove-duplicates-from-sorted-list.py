@@ -5,6 +5,9 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        # TC - O(N)
+        # SC - O(1)
+        
         if not head or not head.next:
             return head
         

@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1054-distant-barcodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1122-relative-sort-array) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |

@@ -16,7 +16,6 @@ class Solution:
         head = prev
         cur = head
 
-        max_val = cur.val
         while cur and cur.next:
 
             if cur.next.val < cur.val:

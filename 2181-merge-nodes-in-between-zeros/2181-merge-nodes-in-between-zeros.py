@@ -8,9 +8,6 @@ class Solution:
         ans = ListNode()
         temp1 = ans
 
-        dummy = ListNode()
-        temp = prev = dummy
-
         while head:
             if head.val == 0:
                 cur = 0

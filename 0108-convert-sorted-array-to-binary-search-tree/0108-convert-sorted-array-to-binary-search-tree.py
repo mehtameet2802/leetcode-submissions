@@ -6,6 +6,11 @@
 #         self.right = right
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
+
+        '''
+        TC - O(n)
+        SC - O(log n)
+        '''
         
         def helper(left, right):
             if left > right:

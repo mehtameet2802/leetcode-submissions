@@ -6,6 +6,19 @@
 #         self.right = right
 class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+        '''
+        Pattern:
+        - Binary Tree
+        - BFS
+        - Level Order
+        - Queue
+
+        TC - O(N)
+        Auxiliary SC - O(W)
+        Worst-case SC - O(N)
+        Output - O(H)
+        '''
+
         queue = deque([])
         queue.append(root)
         ans = []

@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0901-online-stock-span) |
@@ -1134,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1193,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1221,4 +1227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->

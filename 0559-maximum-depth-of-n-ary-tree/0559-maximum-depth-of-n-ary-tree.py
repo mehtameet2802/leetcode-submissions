@@ -8,6 +8,20 @@ class Node:
 
 class Solution:
     def maxDepth(self, root: 'Node') -> int:
+        '''
+        Pattern:
+        - N-ary Tree
+        - DFS
+        - Recursion
+
+        TC - O(N)
+        SC - O(H)
+
+        Balanced → O(log_K N)
+        Worst case → O(N)
+
+        Optimal → Yes
+        '''
         
         def helper(root):
             if not root:

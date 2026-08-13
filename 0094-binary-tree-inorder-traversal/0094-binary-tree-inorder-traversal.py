@@ -6,6 +6,22 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        
+        '''
+        Pattern:
+        - Binary Tree
+        - DFS
+        - Recursion
+        - Inorder Traversal
+
+        TC - O(N)
+        SC - O(H)
+
+        H = tree height
+        Balanced → O(log N)
+        Skewed → O(N)
+        '''
+        
         ans = []
 
         def helper(root):

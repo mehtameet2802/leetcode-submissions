@@ -6,6 +6,16 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+
+        '''
+        Pattern:
+        - Binary Tree
+        - DFS
+        - Recursion
+
+        TC - O(N)
+        SC - O(H)
+        '''
         
         def helper(p1, q1):
             if not p1 and not q1:

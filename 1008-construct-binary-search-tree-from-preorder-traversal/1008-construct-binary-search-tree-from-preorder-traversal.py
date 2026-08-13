@@ -6,6 +6,15 @@
 #         self.right = right
 class Solution:
     def bstFromPreorder(self, preorder: List[int]) -> Optional[TreeNode]:
+        '''
+        Balanced:
+        H = O(log N)
+        SC = O(log N)
+
+        Skewed:
+        H = O(N)
+        SC = O(N)
+        '''
         
         i = 0
 

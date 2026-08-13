@@ -8,6 +8,17 @@ class Node:
 
 class Solution:
     def preorder(self, root: 'Node') -> List[int]:
+        '''
+        Pattern:
+        - N-ary Tree
+        - DFS
+        - Recursion
+        - Preorder
+
+        TC - O(N)
+        SC - O(H)
+        '''
+        
         ans = []
 
         def helper(root):

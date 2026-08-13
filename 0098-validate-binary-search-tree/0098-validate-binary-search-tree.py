@@ -6,6 +6,15 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        '''
+        Balanced BST:
+        H = O(log N)
+        SC = O(log N)
+
+        Worst-case skewed tree:
+        H = O(N)
+        SC = O(N)
+        '''
         
         INF = float('inf')
         upperLimit = INF
@@ -21,6 +30,3 @@ class Solution:
             return helper(node.left, lower, node.val) and helper(node.right, node.val, upper)
         
         return helper(root, lowerLimit, upperLimit)
-        
-
-        

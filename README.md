@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0565-array-nesting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0565-array-nesting) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |

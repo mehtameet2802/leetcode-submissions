@@ -6,6 +6,26 @@
 #         self.right = right
 class Solution:
     def isCousins(self, root: Optional[TreeNode], x: int, y: int) -> bool:
+        '''
+        Pattern:
+        - Binary Tree
+        - BFS
+        - Level Order
+        - Track depth
+        - Track parent
+
+        TC - O(N)
+        SC - O(W)
+
+        For a balanced tree up to depth D:
+        TC - O(2^D)
+        SC - O(2^D)
+
+        Worst case:
+        TC - O(N)
+        SC - O(N)
+        '''
+
         queue = deque([])
         queue.append(root)
         depth = 0

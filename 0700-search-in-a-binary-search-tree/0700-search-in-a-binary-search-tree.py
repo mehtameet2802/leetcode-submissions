@@ -13,10 +13,10 @@ class Solution:
             if node.val == val:
                 return node
             
-            left = helper(node.left)
-            right = helper(node.right)
-
-            return left or right
+            if node.val < val:
+                return helper(node.right)
+            
+            return helper(node.left)
         
         return helper(root)
 

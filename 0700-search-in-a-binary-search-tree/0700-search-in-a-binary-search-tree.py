@@ -6,6 +6,23 @@
 #         self.right = right
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+        '''
+        Pattern:
+        - BST
+        - Search
+        - Recursion / Iteration
+
+        Recursive:
+        TC - O(H)
+        SC - O(H)
+
+        Iterative:
+        TC - O(H)
+        SC - O(1)  ← better
+
+        Balanced → O(log N)
+        Worst case → O(N)7
+        '''
         
         while root:
             if not root:

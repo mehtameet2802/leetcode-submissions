@@ -6,6 +6,16 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
+        '''
+        Pattern:
+        - Binary Tree
+        - DFS
+        - Subtree Matching
+        - Recursion
+
+        TC - O(N × M)
+        SC - O(H₁ + H₂)
+        '''
         
         def check(root1, subRoot):
             if not root1 and not subRoot:

@@ -6,6 +6,18 @@
 #         self.right = right
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
+
+        '''
+        Pattern:
+        - Binary Tree
+        - BFS
+        - Queue
+        - Level-order traversal
+
+        TC - O(N)
+        SC - O(W)
+        Worst-case SC - O(N)
+        '''
         
         if not root:
             return 0

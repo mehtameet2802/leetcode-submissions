@@ -6,6 +6,21 @@
 #         self.right = right
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        '''
+        Pattern:
+        - Binary Tree
+        - DFS
+        - Recursion
+        - In-place modification
+
+        TC - O(N)
+        SC - O(H)
+
+        Balanced → O(log N)
+        Worst case → O(N)
+
+        Optimal → Yes
+        '''
 
         def helper(root):
             if not root:

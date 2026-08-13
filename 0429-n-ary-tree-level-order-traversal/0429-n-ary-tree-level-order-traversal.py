@@ -10,7 +10,7 @@ class Solution:
     def levelOrder(self, root: 'Node') -> List[List[int]]:
         '''
         Pattern:
-        - Binary Tree
+        - N-ary Tree
         - BFS
         - Queue
         - Level Order

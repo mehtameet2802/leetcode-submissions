@@ -13,7 +13,7 @@ class Solution:
         - Queue
         - Level Order
 
-        TC - O(N)
+        TC - O(N + H) - O(N), N>=H
         SC - O(W)
         Worst case SC - O(N)
         '''

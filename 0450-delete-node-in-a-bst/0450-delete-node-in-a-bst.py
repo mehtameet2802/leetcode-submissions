@@ -6,6 +6,22 @@
 #         self.right = right
 class Solution:
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
+
+        '''
+        Pattern:
+        - BST
+        - Recursion
+        - Search
+        - Inorder Successor
+
+        TC - O(H)
+        SC - O(H)
+
+        Balanced → O(log N)
+        Worst case → O(N)
+
+        Optimal → Yes
+        '''
         
         def getNode(node):
             while node and node.left:

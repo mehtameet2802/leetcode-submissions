@@ -28,11 +28,12 @@ class Solution:
         while queue:
 
             length = len(queue)
-            cur = []
 
-            for _ in range(length):
+            for i in range(length):
                 ele = queue.popleft()
-                cur.append(ele.val)
+                
+                if i == length - 1:
+                    ans.append(ele.val)
 
                 if ele.left:
                     queue.append(ele.left)
@@ -40,6 +41,5 @@ class Solution:
                 if ele.right:
                     queue.append(ele.right)
             
-            ans.append(cur[-1])
 
         return ans

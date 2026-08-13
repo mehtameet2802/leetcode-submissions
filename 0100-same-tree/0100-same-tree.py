@@ -14,12 +14,9 @@ class Solution:
             if not p1 or not q1:
                 return False
             
-            if p1.val == q1.val:
-                left = helper(p1.left, q1.left)
-                right = helper(p1.right, q1.right)
-
-                return left and right
+            if p1.val != q1.val:
+                return False
             
-            return False
+            return helper(p1.left, q1.left) and helper(p1.right, q1.right)
 
         return helper(p,q)

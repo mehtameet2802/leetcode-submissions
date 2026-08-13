@@ -40,6 +40,6 @@ class Solution:
                 if ele.right:
                     queue.append(ele.right)
             
-            ans.append(cur.copy())
+            ans.append(cur)
 
         return ans

@@ -6,6 +6,23 @@
 #         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        '''
+        Pattern:
+        - Binary Tree
+        - DFS
+        - Recursion
+        - Mirror Comparison
+
+        TC - O(N)
+        SC - O(H)
+
+        Balanced → O(log N)
+        Worst case → O(N)
+
+        Optimal:
+        TC → Yes
+        SC → Recursive approach is optimal for this approach
+        '''
         
         def helper(l, r):
             if not l and not r:

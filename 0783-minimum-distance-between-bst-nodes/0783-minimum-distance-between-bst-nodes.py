@@ -6,6 +6,11 @@
 #         self.right = right
 class Solution:
     def minDiffInBST(self, root: Optional[TreeNode]) -> int:
+        '''
+        TC - O(N)
+        SC - O(H)
+        '''
+
         prev = None
         ans = float('inf')
 

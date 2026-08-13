@@ -6,6 +6,10 @@
 #         self.right = right
 class Solution:
     def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+        '''
+        TC = O(H)
+        SC = O(H)
+        '''
         
         def helper(node):
             nonlocal val

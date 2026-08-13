@@ -16,7 +16,7 @@ class Solution:
         TC - O(N)
         SC - O(W)
         '''
-        ans = []
+        ans = -1
 
         if not root:
             return ans
@@ -32,7 +32,7 @@ class Solution:
                 ele = queue.popleft()
                 
                 if i == 0:
-                    ans.append(ele.val)
+                    ans = ele.val
 
                 if ele.left:
                     queue.append(ele.left)
@@ -41,4 +41,4 @@ class Solution:
                     queue.append(ele.right)
             
 
-        return ans[-1]
+        return ans

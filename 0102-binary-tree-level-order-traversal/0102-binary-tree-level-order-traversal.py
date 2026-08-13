@@ -6,7 +6,17 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        
+        '''
+        Pattern:
+        - Binary Tree
+        - BFS
+        - Queue
+        - Level Order
+
+        TC - O(N)
+        SC - O(W)
+        Worst case SC - O(N)
+        '''
         ans = []
 
         if not root:

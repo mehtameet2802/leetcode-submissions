@@ -6,6 +6,11 @@
 #         self.right = right
 class Solution:
     def balanceBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        '''
+        TC - O(N)
+        SC - O(N)
+        '''
+
         arr = []
         
         def inorder(node):

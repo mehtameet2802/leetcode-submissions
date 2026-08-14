@@ -9,7 +9,18 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        
+        '''
+        TC - O(V)
+
+        Auxiliary space:
+            seen       → O(V)
+            recursion  → O(V) worst case
+            --------------------
+            total      → O(V)
+
+        Output:
+            cloned graph → O(V + E)
+        '''
         seen = {}
         
         def helper(node):

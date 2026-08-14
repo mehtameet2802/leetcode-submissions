@@ -8,6 +8,16 @@ class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
         
         def helper(node, isLeft):
+            '''
+            Pattern: Root-to-Leaf / Parent-to-Child State
+
+            State:    isLeft
+
+            TC:       O(n)  
+            SC:       O(h)  
+            Optimal:  Yes   
+            '''
+
             if not node:
                 return 0
             

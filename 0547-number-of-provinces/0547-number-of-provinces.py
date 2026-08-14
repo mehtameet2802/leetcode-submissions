@@ -17,10 +17,9 @@ class Solution:
 
 
         for a in range(len(isConnected)):
-            for b in range(len(isConnected[0])):
-                if b not in visited and isConnected[a][b] == 1:
-                    cnt += 1
-                    helper(b)
+            if a not in visited:
+                cnt += 1
+                helper(a)
 
         return cnt
 

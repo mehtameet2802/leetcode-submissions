@@ -9,7 +9,7 @@ class Solution:
         
         def helper(node):
             if not node:
-                return -1, 0, 0
+                return -1, -1, -1
             
             left_max, left_left, left_right = helper(node.left)
             right_max, right_left, right_right = helper(node.right)
@@ -17,7 +17,7 @@ class Solution:
             left = left_right + 1
             right = right_left + 1
 
-            best = max(left_max, right_max, left_right, right_left)
+            best = max(left_max, right_max, left, right)
 
             return best, left, right
 

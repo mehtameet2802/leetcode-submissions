@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [1054-distant-barcodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1054-distant-barcodes) |
 | [1122-relative-sort-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1122-relative-sort-array) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1186,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1263,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1302,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -1309,10 +1315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->

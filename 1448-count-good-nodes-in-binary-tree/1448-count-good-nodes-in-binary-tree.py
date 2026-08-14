@@ -6,22 +6,25 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        
-        cnt = 0
+        '''
+        TC = O(n)
+        SC = O(h)
+        '''
 
         def helper(node, maxVal):
-            nonlocal cnt
-
             if not node:
-                return
+                return 0
             
+            count = 0
+
             if node.val >= maxVal:
-                cnt += 1
+                count += 1
             
             maxVal = max(maxVal, node.val)
 
-            helper(node.left, maxVal)
-            helper(node.right, maxVal)
+            count += helper(node.left, maxVal)
+            count += helper(node.right, maxVal)
+
+            return count
         
-        helper(root, root.val)
-        return cnt
+        return helper(root, root.val)

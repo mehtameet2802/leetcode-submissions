@@ -1,5 +1,13 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
+        '''
+        Graph       O(n + m)
+        Visited     O(n)
+        Call stack  O(n)
+
+        Total       O(n + m)
+        '''
+
         graph = defaultdict(list)
 
         for u,v in edges:

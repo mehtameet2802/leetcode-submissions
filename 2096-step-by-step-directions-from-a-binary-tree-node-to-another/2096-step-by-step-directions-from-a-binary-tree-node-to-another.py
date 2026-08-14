@@ -6,6 +6,11 @@
 #         self.right = right
 class Solution:
     def getDirections(self, root: Optional[TreeNode], startValue: int, destValue: int) -> str:
+
+        # '''
+        # TC = O(n)
+        # SC = O(h)
+        # '''
         
         # def getLCA(node):
         #     if not node:
@@ -66,6 +71,10 @@ class Solution:
 
         # return ans
 
+        '''
+        TC = O(n)
+        SC = O(h)
+        '''
 
         start_path = []
         end_path = []

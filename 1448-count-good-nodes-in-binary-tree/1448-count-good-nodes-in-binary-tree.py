@@ -11,6 +11,26 @@ class Solution:
         SC = O(h)
         '''
 
+
+        # cnt = 0
+
+        # def helper(node, maxVal):
+        #     nonlocal cnt
+
+        #     if not node:
+        #         return
+            
+        #     if node.val >= maxVal:
+        #         cnt += 1
+            
+        #     maxVal = max(maxVal, node.val)
+
+        #     helper(node.left, maxVal)
+        #     helper(node.right, maxVal)
+        
+        # helper(root, root.val)
+        # return cnt
+
         def helper(node, maxVal):
             if not node:
                 return 0

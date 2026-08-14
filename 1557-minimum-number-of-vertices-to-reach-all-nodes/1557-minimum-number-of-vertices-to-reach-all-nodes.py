@@ -1,5 +1,10 @@
 class Solution:
     def findSmallestSetOfVertices(self, n: int, edges: List[List[int]]) -> List[int]:
+        '''
+        TC = O(V + E)
+        SC = O(V)
+        '''
+
         in_degree = [0]*n
 
         for u,v in edges:

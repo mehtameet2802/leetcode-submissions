@@ -6,6 +6,17 @@
 #         self.right = right
 class Solution:
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
+
+        '''
+        Pattern: Root-to-Leaf Path State + Backtracking
+
+        Time:  O(n + L) precise
+            O(n) traversal
+
+        Space: O(h) auxiliary
+
+        Optimal: Yes
+        '''
         ans = []
 
         path = []

@@ -5,18 +5,17 @@ class Solution:
         ROWS = len(grid)
         COLS = len(grid[0])
 
-        visited = set()
-
         def helper(r,c):
-            visited.add((r,c))
+            grid[r][c] = 0
 
             a = 1
             for dr, dc in dirs:
                 nr = r + dr
                 nc = c + dc
 
-                if nr<0 or nr>=ROWS or nc<0 or nc>=COLS or (nr,nc) in visited or grid[nr][nc] == 0:
+                if nr<0 or nr>=ROWS or nc<0 or nc>=COLS or grid[nr][nc] == 0:
                     continue
+                
                 
                 a += helper(nr,nc)
             

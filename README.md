@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0566-reshape-the-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |

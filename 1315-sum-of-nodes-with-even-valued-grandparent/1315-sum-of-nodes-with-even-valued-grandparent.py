@@ -8,6 +8,11 @@ class Solution:
     def sumEvenGrandparent(self, root: Optional[TreeNode]) -> int:
         
         def helper(node, parent, grandParent):
+            '''
+            TC - O(n)
+            SC - O(h)
+            '''
+
             if not node:
                 return 0
             

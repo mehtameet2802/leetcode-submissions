@@ -1,5 +1,9 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
+        '''
+        TC - O(V^2)
+        SC - O(V)
+        '''
         
         visited = set()
         cnt = 0

@@ -16,8 +16,7 @@ class Solution:
         '''
         Pattern: Root-to-Leaf Path State + Backtracking
 
-        Time:  O(n + L) precise
-            O(n) traversal
+        Time:  O(n) precise
 
         Space: O(h) auxiliary
 

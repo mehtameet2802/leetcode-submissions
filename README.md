@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2256-minimum-average-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2256-minimum-average-difference) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -1215,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1609-even-odd-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |

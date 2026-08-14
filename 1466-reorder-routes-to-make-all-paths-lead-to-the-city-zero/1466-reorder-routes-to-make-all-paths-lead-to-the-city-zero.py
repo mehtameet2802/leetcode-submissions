@@ -35,12 +35,13 @@ class Solution:
 
         while stack:
             node = stack.pop()
-            visited.add(node)
+            
             count = 0
             for nei, cost in graph[node]:
                 if nei in visited:
                     continue
                 
+                visited.add(nei)
                 cnt += cost
                 stack.append(nei)
 

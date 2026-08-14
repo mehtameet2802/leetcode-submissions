@@ -10,7 +10,7 @@ from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         '''
-        TC - O(V)
+        TC - O(V + E)
 
         Auxiliary space:
             seen       → O(V)

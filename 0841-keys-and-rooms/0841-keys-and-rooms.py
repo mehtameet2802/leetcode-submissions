@@ -1,5 +1,9 @@
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
+        '''
+        TC = O(V + E)
+        SC - O(V)
+        '''
 
         stack = [0]
         visited = set()

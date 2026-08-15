@@ -1,5 +1,9 @@
 class Solution:
     def maxDistance(self, grid: List[List[int]]) -> int:
+        '''
+        TC = O(R × C)
+        SC = O(R × C)
+        '''
         
         ROWS = len(grid)
         COLS = len(grid[0])

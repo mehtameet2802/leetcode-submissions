@@ -1,5 +1,11 @@
 class Solution:
     def minimumOperations(self, nums: List[int], start: int, goal: int) -> int:
+        '''
+        N - len(nums)
+        TC - O(N*1000)
+        SC - O(1000)
+        '''
+
         queue = deque([(start,0)])
         visited = {start}
         

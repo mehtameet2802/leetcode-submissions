@@ -1,5 +1,9 @@
 class Solution:
     def minimumJumps(self, forbidden: List[int], a: int, b: int, x: int) -> int:
+        '''
+        TC = O(6000) ≈ O(1)
+        SC = O(6000) ≈ O(1)
+        '''
 
         queue = deque([(0,"S",0)])
         visited = {(0,"F")}

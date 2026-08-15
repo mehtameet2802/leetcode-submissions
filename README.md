@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -660,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |

@@ -18,16 +18,13 @@ class Solution:
         safe = []
 
         while queue:
-            length = len(queue)
+            node = queue.popleft()
+            safe.append(node)
 
-            for _ in range(length):
-                node = queue.popleft()
-                safe.append(node)
+            for nei in reverse[node]:
+                outdegree[nei] -= 1
 
-                for nei in reverse[node]:
-                    outdegree[nei] -= 1
-
-                    if outdegree[nei] == 0:
-                        queue.append(nei)
+                if outdegree[nei] == 0:
+                    queue.append(nei)
         
         return sorted(safe)

@@ -1,5 +1,9 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
+        '''
+        TC = O(R × C)
+        SC = O(R × C)
+        '''
         ROWS = len(grid)
         COLS = len(grid[0])
         dirs = [[0,1],[1,0],[-1,0],[0,-1]]

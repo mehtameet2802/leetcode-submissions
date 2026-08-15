@@ -9,6 +9,10 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
+        '''
+        TC = O(V + E)
+        SC = O(V + H)
+        '''
         graph = {}
 
         for employee in employees:

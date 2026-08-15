@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0938-range-sum-of-bst) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0909-snakes-and-ladders) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1419,4 +1423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

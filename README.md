@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2012-sum-of-beauty-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2055-plates-between-candles](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2055-plates-between-candles) |
+| [2059-minimum-operations-to-convert-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2059-minimum-operations-to-convert-number) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2059-minimum-operations-to-convert-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2059-minimum-operations-to-convert-number) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
 |  |

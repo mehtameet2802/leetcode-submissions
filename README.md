@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0844-backspace-string-compare) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0781-rabbits-in-forest) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0781-rabbits-in-forest) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1379,4 +1383,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->

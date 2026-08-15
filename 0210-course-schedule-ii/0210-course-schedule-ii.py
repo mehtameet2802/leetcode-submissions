@@ -1,5 +1,9 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        '''
+        TC - O(V+E)
+        SC - O(V+E)
+        '''
         indegree = [0] * numCourses
         graph = defaultdict(list)
 

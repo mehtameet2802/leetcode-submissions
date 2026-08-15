@@ -1,5 +1,10 @@
 class Solution:
     def highestPeak(self, isWater: List[List[int]]) -> List[List[int]]:
+        '''
+        heights → O(R × C)
+        visited → O(R × C)
+        queue   → O(R × C)
+        '''
         ROWS = len(isWater)
         COLS = len(isWater[0])
 

@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1882-process-tasks-using-servers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1609-even-odd-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1609-even-odd-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
 |  |
 | ------- |

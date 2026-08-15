@@ -1,5 +1,10 @@
 class Solution:
     def nearestExit(self, maze: List[List[str]], entrance: List[int]) -> int:
+        '''
+        TC = O(R × C)
+        SC = O(R × C) - queue
+        '''
+
         ROWS = len(maze)
         COLS = len(maze[0])
 

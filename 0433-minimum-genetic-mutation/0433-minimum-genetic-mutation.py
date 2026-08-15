@@ -1,5 +1,10 @@
 class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
+        '''
+        TC - O(N*L*4) , L is 8 so O(N)
+        SC - O(N)
+        N is number of strings in bank
+        '''
 
         bank = set(bank)
         

@@ -1,5 +1,11 @@
 class Solution:
     def openLock(self, deadends: List[str], target: str) -> int:
+
+        '''
+        TC = O(10^L × L x 2)
+        SC = O(10^L),
+        L is number of wheels
+        '''
         deadends = set(deadends)
 
         if "0000" in deadends:

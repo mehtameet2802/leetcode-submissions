@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0766-toeplitz-matrix) |
+| [0994-rotting-oranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |

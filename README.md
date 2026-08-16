@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Depth-First Search
 |  |
@@ -978,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Randomized
 |  |
@@ -1447,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1496,6 +1502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Enumeration
 |  |
 | ------- |

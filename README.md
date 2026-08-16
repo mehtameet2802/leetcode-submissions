@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1097,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1720-decode-xored-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1720-decode-xored-array) |
@@ -1426,6 +1428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0784-letter-case-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## DP on Trees
 |  |

@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
@@ -985,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0441-arranging-coins) |
@@ -1539,4 +1542,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0784-letter-case-permutation) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1720-decode-xored-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1720-decode-xored-array) |
@@ -1442,6 +1445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## DP on Trees
 |  |

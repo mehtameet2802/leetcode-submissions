@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0561-array-partition) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
+| [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0647-palindromic-substrings) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0784-letter-case-permutation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -1436,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1492,4 +1496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

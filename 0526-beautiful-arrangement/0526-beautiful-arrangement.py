@@ -9,6 +9,7 @@ class Solution:
 
             if len(path) == n:
                 ans += 1
+                return
             
             for i in range(1,n+1):
                 if i in seen:

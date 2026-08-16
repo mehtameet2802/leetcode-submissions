@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [0990-satisfiability-of-equality-equations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0997-find-the-town-judge) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |

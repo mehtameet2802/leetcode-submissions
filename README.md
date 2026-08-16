@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1630-arithmetic-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1630-arithmetic-subarrays) |
 | [1642-furthest-building-you-can-reach](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1642-furthest-building-you-can-reach) |
+| [1646-get-maximum-in-generated-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1646-get-maximum-in-generated-array) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1720-decode-xored-array) |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1646-get-maximum-in-generated-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1646-get-maximum-in-generated-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2181-merge-nodes-in-between-zeros) |

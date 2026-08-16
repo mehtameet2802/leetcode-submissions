@@ -1,5 +1,12 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        '''
+        TC = O(N log N + N × K)
+        K - can be 2^N
+
+        SC = O(N)        ← auxiliary space
+        SC = O(N × K)    ← including output
+        '''
         ans = []
         path = []
 

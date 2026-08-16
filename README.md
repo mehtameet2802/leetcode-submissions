@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1854-maximum-population-year](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1882-process-tasks-using-servers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1006-clumsy-factorial) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Randomized
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1720-decode-xored-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1720-decode-xored-array) |
 | [1734-decode-xored-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1734-decode-xored-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1413,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1458,4 +1462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

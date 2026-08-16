@@ -15,7 +15,7 @@ class Solution:
                 if i in used:
                     continue
                 
-                if i>0 and nums[i] == nums[i-1] and i-1 not in used:
+                if i>0 and nums[i] == nums[i-1] and i-1 in used:
                     continue
 
                 used.add(i)

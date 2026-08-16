@@ -1,5 +1,20 @@
 class Solution:
     def restoreIpAddresses(self, s: str) -> List[str]:
+        '''
+        K - number of ip address
+        N - length of ip address
+        ┌─────────────────────┐
+        │ TC                  │
+        │ O(3^4 × N) = O(N)   │
+        ├─────────────────────┤
+        │ Auxiliary SC        │
+        │ O(1)                │
+        ├─────────────────────┤
+        │ Output SC           │
+        │ O(K × N)            │
+        └─────────────────────┘
+        '''
+
         ans = []
         path = []
 

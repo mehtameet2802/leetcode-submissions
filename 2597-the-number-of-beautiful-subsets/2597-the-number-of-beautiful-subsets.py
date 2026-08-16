@@ -1,5 +1,10 @@
 class Solution:
     def beautifulSubsets(self, nums: List[int], k: int) -> int:
+
+        '''
+        TC = O(N × 2^N)
+        SC = O(N)
+        '''
         ans = 0
         path = []
 

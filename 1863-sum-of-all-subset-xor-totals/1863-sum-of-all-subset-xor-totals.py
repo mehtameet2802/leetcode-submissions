@@ -1,5 +1,9 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
+        '''
+        TC - O(N*2^N)
+        SC - O(N)
+        '''
         ans = 0
         values = []
 

@@ -12,6 +12,8 @@ class Solution:
                 return
             
             for j in range(i,10):
+                if cur + j > n:
+                    break
                 path.append(j)
                 helper(j+1, cur + j)
                 path.pop()

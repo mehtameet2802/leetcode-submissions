@@ -1,5 +1,9 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
+        '''
+        TC = O(N × 2^N)
+        SC = O(N)
+        '''
         path = []
         ans = []
 

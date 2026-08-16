@@ -6,7 +6,8 @@ class Solution:
         def helper(i):
             nonlocal ans
 
-            ans += 1
+            if path:
+                ans += 1
 
             for j in range(i, len(nums)):
                 # Take nums[i] if valid
@@ -16,4 +17,4 @@ class Solution:
                     path.pop()
 
         helper(0)
-        return ans-1
+        return ans

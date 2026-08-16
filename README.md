@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0165-compare-version-numbers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0088-merge-sorted-array) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0100-same-tree) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
@@ -1453,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0113-path-sum-ii) |

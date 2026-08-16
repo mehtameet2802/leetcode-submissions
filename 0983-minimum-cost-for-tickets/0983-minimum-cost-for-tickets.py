@@ -20,7 +20,9 @@ class Solution:
             ans = float('inf')
 
             if days[i]<=reach:
-                return helper(i+1, reach)
+                ans = helper(i+1, reach)
+                dp[(i,reach)] = ans
+                return ans
 
             for j in range(len(costs)):
                 ans = min(ans, costs[j] + helper(i+1,days[i] + day[j]-1))

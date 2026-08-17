@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0179-largest-number) |
 | [0227-basic-calculator-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0227-basic-calculator-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0213-house-robber-ii) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0202-happy-number) |
@@ -1067,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -1449,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 ## String Matching
 |  |
@@ -1555,4 +1561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0279-perfect-squares) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

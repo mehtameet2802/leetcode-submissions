@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
+| [2140-solving-questions-with-brainpower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2140-solving-questions-with-brainpower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |

@@ -1,6 +1,7 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         
+        wordDict = set(wordDict)
         dp = {}
 
         def helper(i,length):

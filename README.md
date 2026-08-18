@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1630-arithmetic-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1630-arithmetic-subarrays) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1791-find-center-of-star-graph) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
@@ -1223,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1659,5 +1663,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

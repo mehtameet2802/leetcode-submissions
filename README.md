@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1395-count-number-of-teams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1395-count-number-of-teams) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1765-map-of-highest-peak](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1765-map-of-highest-peak) |

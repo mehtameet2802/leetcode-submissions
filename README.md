@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1227,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1665,4 +1669,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

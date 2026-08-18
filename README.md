@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0647-palindromic-substrings) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0542-01-matrix) |

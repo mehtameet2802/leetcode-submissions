@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1395-count-number-of-teams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1395-count-number-of-teams) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |

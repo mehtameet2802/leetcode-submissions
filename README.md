@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2140-solving-questions-with-brainpower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2140-solving-questions-with-brainpower) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1765-map-of-highest-peak) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1937-maximum-number-of-points-with-cost) |
 ## Graph Theory
 |  |
 | ------- |

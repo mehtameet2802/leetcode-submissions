@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0841-keys-and-rooms) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0912-sort-an-array) |
@@ -1211,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1643,4 +1648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0886-possible-bipartition) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

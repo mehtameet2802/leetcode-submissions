@@ -18,6 +18,9 @@ class Solution:
             prob, node = heapq.heappop(max_heap)
             prob = -prob
 
+            if ans[node] > prob:
+                continue
+
             for v, p in graph[node]:
                 np = prob * p
 

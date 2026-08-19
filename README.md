@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1630-arithmetic-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1630-arithmetic-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1642-furthest-building-you-can-reach) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1615-maximal-network-rank](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1705,4 +1708,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

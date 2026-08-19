@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2353-design-a-food-rating-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2353-design-a-food-rating-system) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2353-design-a-food-rating-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2353-design-a-food-rating-system) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2353-design-a-food-rating-system) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2353-design-a-food-rating-system) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
@@ -1011,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2353-design-a-food-rating-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -1375,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2353-design-a-food-rating-system) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
 ## Counting Sort
 |  |

@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
+| [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -1371,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
+| [2349-design-a-number-container-system](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2349-design-a-number-container-system) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
 ## Counting Sort
 |  |

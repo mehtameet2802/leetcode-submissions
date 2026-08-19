@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
+| [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -920,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1882-process-tasks-using-servers) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
+| [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2080-range-frequency-queries](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2080-range-frequency-queries) |
 ## Data Stream
 |  |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0901-online-stock-span) |
+| [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1366,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2034-stock-price-fluctuation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2034-stock-price-fluctuation) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
 ## Counting Sort
 |  |

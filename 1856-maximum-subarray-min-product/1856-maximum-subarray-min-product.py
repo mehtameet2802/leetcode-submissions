@@ -36,7 +36,7 @@ class Solution:
             right = n
 
             if left == -1:
-                    total = prefix[right-1]
+                total = prefix[right-1]
             else:
                 total = prefix[right-1] - prefix[left]
 

@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0983-minimum-cost-for-tickets) |
+| [0986-interval-list-intersections](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0997-find-the-town-judge) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0986-interval-list-intersections) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
@@ -1743,4 +1745,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

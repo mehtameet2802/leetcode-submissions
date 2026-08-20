@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1856-maximum-subarray-min-product](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1856-maximum-subarray-min-product) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1834-single-threaded-cpu) |
 | [1854-maximum-population-year](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1854-maximum-population-year) |
+| [1856-maximum-subarray-min-product](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1856-maximum-subarray-min-product) |
 | [1861-rotating-the-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1856-maximum-subarray-min-product](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -1316,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1854-maximum-population-year) |
+| [1856-maximum-subarray-min-product](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1856-maximum-subarray-min-product) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1991-find-the-middle-index-in-array) |
@@ -1625,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
+| [1856-maximum-subarray-min-product](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1856-maximum-subarray-min-product) |
 ## Backtracking
 |  |
 | ------- |

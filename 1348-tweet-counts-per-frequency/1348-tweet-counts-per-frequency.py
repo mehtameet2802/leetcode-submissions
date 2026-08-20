@@ -17,14 +17,11 @@ class TweetCounts:
 
         ans = [0]*n
 
-        tweet_time = sorted(self.tweet_dict[tweetName])
+        tweet_time = self.tweet_dict[tweetName]
 
         for t in tweet_time:
-            if t < startTime:
+            if t < startTime or t > endTime:
                 continue
-            
-            if t > endTime:
-                break
 
             idx = (t-startTime) // chunk
 

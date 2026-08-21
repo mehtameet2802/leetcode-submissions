@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2866-beautiful-towers-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2866-beautiful-towers-ii) |
 ## Array
 |  |
 | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
+| [2866-beautiful-towers-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2866-beautiful-towers-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2866-beautiful-towers-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2866-beautiful-towers-ii) |
 ## Binary Search
 |  |
 | ------- |

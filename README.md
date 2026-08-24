@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1054-distant-barcodes) |

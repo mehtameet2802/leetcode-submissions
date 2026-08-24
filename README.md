@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0322-coin-change) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0542-01-matrix) |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1320,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |

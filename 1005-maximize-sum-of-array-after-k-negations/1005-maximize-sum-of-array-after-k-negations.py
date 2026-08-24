@@ -37,8 +37,8 @@ class Solution:
 
 
         '''
-        TC - O(n logn)
-        SC - O(n)
+        TC - O(nlogn)
+        SC - O(1)
         '''
         nums.sort()
             

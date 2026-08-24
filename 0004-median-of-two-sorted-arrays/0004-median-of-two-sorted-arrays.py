@@ -24,9 +24,6 @@ class Solution:
 
         push(nums1)
         push(nums2)
-
-        print(min_heap)
-        print(max_heap)
         
         if len(min_heap) == len(max_heap):
             return (min_heap[0] - max_heap[0])/2

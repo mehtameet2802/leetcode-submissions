@@ -18,7 +18,6 @@ class Solution:
         for right in range(len(number)):
             cur = cur*10 + int(number[right])
 
-            print(cur)
             if right - left + 1 == k:
                 if cur > 0 and num % cur == 0:
                     ans += 1

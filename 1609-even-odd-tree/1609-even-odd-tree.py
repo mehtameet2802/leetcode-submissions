@@ -40,7 +40,6 @@ class Solution:
                 
                 prev = ele.val
 
-
                 if ele.left:
                     queue.append(ele.left)
                 

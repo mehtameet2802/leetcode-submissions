@@ -34,6 +34,9 @@ class Solution:
         for a,b in edges:
             if not dsu.union(a,b):
                 return [a,b]
+        #         ans.append([a,b])
+        
+        # return ans[-1]
 
 
         

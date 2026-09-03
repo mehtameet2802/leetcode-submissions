@@ -18,9 +18,10 @@ class Solution:
 
         dict will have default value 0 and a value 0 with freq 1 to represent array startign from 0
 
+        while writing code, forgot about prefix_sum var and calc, sub_arr_cnt var and then realised so had to define them
+
         '''
 
-        prefix_sum = [0]*len(nums)
         freq_dict = defaultdict(int)
         freq_dict[0] = 1
         sub_arr_cnt = 0

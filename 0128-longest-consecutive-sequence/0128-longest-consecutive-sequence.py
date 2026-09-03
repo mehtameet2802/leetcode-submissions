@@ -14,7 +14,7 @@ class Solution:
         I could recollect this from memory as have solve it multiple times
 
 
-        Wrote first solution without considered in 5 min and submitted passed 81 cases and got TLE, thought 7 mins more and added considered set along with its condition to prevent duplicate runs from same starb points
+        Wrote first solution without considered in 5 min and submitted passed 81 cases and got TLE, thought 7 mins more and added considered set along with its condition to prevent duplicate runs from same start points, submitted and all test cases passed. Took about 12 - 15 min (max)
 
         TC - O(n) - because very less elements for which I will be able to iterate by +1 until n, most will break
         SC - O(n)

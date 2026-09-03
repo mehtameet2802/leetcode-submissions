@@ -1,24 +1,32 @@
 class Solution:
     def subarraysDivByK(self, nums: List[int], k: int) -> int:
-
         '''
-        Pattern - Prefix Sum +  Hash Map + Modulo
+        DIrectly started coding and stuck in middle to actually find the splution, went to excalidraw and figured out the solution 
+        the tc is of O(n*p)
+        sc - O(p)
+        getting TLE
 
-        TC - O(N)
-        SC - O(k) - number of remainders that is 0 to k-1
+        30 min spent
+
+        still no optimized solution found
+
+        Spent more 15 min and added a new while loop but now the problem is that hte negative numbers divisible by k are not being considered
         '''
 
-        f_map = defaultdict(int)
 
-        f_map[0] = 1
-        ans = 0
-        prefix = 0
+        remainder_dict = defaultdict(int)
+        remainder_dict[0] = 1
 
-        for num in nums:
-            prefix += num 
+        prefix_sum = 0
+
+        subarray_cnt = 0
+
+        for cur_ele in nums:
+            prefix_sum += cur_ele
+
+            remainder = prefix_sum % k
+            subarray_cnt += remainder_dict[remainder]
             
-            ans += f_map[prefix % k]
-
-            f_map[prefix % k] += 1
-        
-        return ans
+            remainder_dict[remainder] += 1
+            
+        return subarray_cnt

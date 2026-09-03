@@ -13,6 +13,8 @@ class Solution:
         Spent more 15 min and added a new while loop but now the problem is that hte negative numbers divisible by k are not being considered
 
         Then referred gpt and got that if remainder of 2 numbers is same then their diff is divisble by the number used to calculate ites remainder
+
+        Time - 1 hr
         '''
 
 

@@ -17,6 +17,8 @@ class Solution:
 
         TC - O(n)
         SC - O(1)
+
+        TIme - 15 min
         '''
 
         left = 0

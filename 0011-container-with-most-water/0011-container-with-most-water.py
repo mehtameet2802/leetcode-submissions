@@ -13,6 +13,8 @@ class Solution:
 
         The question is seen multiple times and solved multiples time hence in memor, but ufcourse used excalidraw and wrote above answers
 
+        Had considered the width to be r-l+1, but it was r-l, found after running test cases
+
         TC - O(n)
         SC - O(1)
         '''

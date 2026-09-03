@@ -1,34 +1,48 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
-        
-        nums.sort()
+        '''
+        pseudo code
         ans = []
-        
-        for i in range(len(nums)):
-            cur = nums[i]
+        iterate through the nums
+        for idx in nums:
+            
+            target = 0 - num[idx]
+            seen - a set for maintaining seen numbers
 
-            l = i+1
-            r = len(nums)-1
-            target = 0 - cur
-
-            if i>0 and nums[i] == nums[i-1]:
-                continue
-
-            while l<r:
-                if nums[l] + nums[r] > target:
-                    r -= 1
-                elif nums[l] + nums[r] < target:
-                    l += 1
-                else:
-                    ans.append([cur,nums[l],nums[r]])
-                    l+=1
-                    r-=1
-
-                    while l<r and nums[l] == nums[l-1]:
-                        l+=1
-                    
-                    while l<r and nums[r] == nums[r+1]:
-                        r-=1
+            for j in nums[idx+1] to nums[n]:
+                if target - j in seen:
+                    ans.append[[nums[i],nums[j],nums[k]]]
+                    break
+                
+                seen.add(nums[j])
         
         return ans
+
+        in first run used list instead of set and did not sort so got duplicates,
+        used break so did not get all the set
+        did not sort 
+
+        TC - O(n^2)
+        SC - O(n)
+
+
+        '''
+
+        nums.sort()
+
+        ans = set()
+        n = len(nums)
+
+        for idx1 in range(n):
+            target = 0 - nums[idx1]
+            seen = set()
+
+            for idx2 in range(idx1+1,n):
+
+                if (target - nums[idx2]) in seen:
+                    ans.add((nums[idx1],nums[idx2],target-nums[idx2]))
+                    # break
                 
+                seen.add(nums[idx2])
+        
+        return list(ans)

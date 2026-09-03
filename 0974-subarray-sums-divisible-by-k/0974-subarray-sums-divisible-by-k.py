@@ -15,6 +15,10 @@ class Solution:
         Then referred gpt and got that if remainder of 2 numbers is same then their diff is divisble by the number used to calculate ites remainder
 
         Time - 1 hr
+
+        Final TC - O(n)
+        Final SC - O(k)
+
         '''
 
 

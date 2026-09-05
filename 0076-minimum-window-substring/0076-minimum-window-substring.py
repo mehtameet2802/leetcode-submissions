@@ -26,11 +26,12 @@ class Solution:
                     best_length = window_len
                 
                 left_ch = s[left]
-                counter_s[left_ch] -= 1
+                
 
-                if left_ch in counter_t and counter_s[left_ch] < counter_t[left_ch]:
+                if left_ch in counter_t and counter_s[left_ch] <= counter_t[left_ch]:
                     formed -= 1
 
+                counter_s[left_ch] -= 1
                 left += 1
         
         if best_length == float('inf'):

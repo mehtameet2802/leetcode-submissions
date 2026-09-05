@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0093-restore-ip-addresses) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0567-permutation-in-string) |

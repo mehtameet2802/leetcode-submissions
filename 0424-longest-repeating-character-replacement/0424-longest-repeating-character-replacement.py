@@ -1,7 +1,7 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         highest_ele = s[0]
-        highest_freq = 1
+        highest_freq = 0
         arr = [0]*26
         ans = 0
 

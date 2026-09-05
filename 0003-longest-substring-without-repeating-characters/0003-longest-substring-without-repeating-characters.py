@@ -1,15 +1,27 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        last_seen = {}
+        arr = [0] * 100
+
         left = 0
-        ans = 0
+        max_length = -float('inf')
 
         for right in range(len(s)):
-
-            if s[right] in last_seen:
-                left = max(left,last_seen[s[right]]+1)
+            if arr[ord(s[right])-ord('a')] == 0:
+                arr[ord(s[right])-ord('a')] = 1
+                continue
             
-            last_seen[s[right]] = right
-            ans = max(ans, right-left+1)
+            max_length = max(max_length,right - left)
+            while left < right and s[left] != s[right]:
+                arr[ord(s[left])-ord('a')] = 0
+                left += 1
+            
+            left += 1
+            
+        if max_length == -float('inf'):
+            return len(s)
+        else:
+            max_length = max(max_length,right-left+1)
 
-        return ans
+        return max_length
+
+            

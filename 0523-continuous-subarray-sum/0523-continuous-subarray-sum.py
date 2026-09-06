@@ -12,7 +12,7 @@ class Solution:
             if len(remainders[remainder])>0:
                 if idx - remainders[remainder][0] >= 2:
                     return True
-                    
-            remainders[remainder].append(idx)
+            else:
+                remainders[remainder].append(idx)
 
         return False

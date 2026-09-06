@@ -26,7 +26,6 @@ class Solution:
                 cur_capacity -= weight
             
             days_taken += 1
-            print(capacity, days_taken)
             return days_taken <= days
         
         left = max(weights)

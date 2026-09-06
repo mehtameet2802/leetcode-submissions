@@ -8,14 +8,6 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        
-        '''
-        Pattern - Divide in 2 parts and merge
-
-        TC - O(N)
-        SC - O(1) 
-        '''
-
         slow = head
         fast = head.next
 
@@ -23,23 +15,31 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
         
-        head2 = slow
-        slow = None
+        head2 = slow.next
+        slow.next = None
 
         prev = None
+        temp = head2
         while head2:
-            temp = head2.next
-            head2.next = prev
-            prev = head2
-            head2 = temp
+            head2 = head2.next
+            temp.next = prev
+            prev = temp
+            temp = head2
         
         head2 = prev
 
-        while head and head2:
-            temp = head.next
-            head.next = head2
-            head = temp
+        ans = ListNode()
+        temp = ans
 
-            temp = head2.next
-            head2.next = head
-            head2 = temp
+        while head or head2:
+            if head:
+                temp.next = head
+                head = head.next
+                temp = temp.next
+            
+            if head2:
+                temp.next = head2
+                head2 = head2.next
+                temp = temp.next
+
+        return ans.next

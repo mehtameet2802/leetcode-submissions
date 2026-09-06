@@ -1,33 +1,43 @@
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
         '''
-        PAttern - Binary Search on ANswer
-        TC - TC - O(n * log(sum(weights)))
-        SC - O(1)
-        '''
+        binary search on weight capacity of the ship
 
         l = max(weights)
-        r = sum(weights)
+        right = sum(weights)
 
-        def calc(val):
-            day = 1
-            cur = 0
+        need function possible - 
+        it takes weight capacity
+        for each weight capacity it calculates days taken to ship all the wights
+        if days_taken <= days return True, else False
+
+        when possible is True - right = mid
+        else left = mid + 1
+        '''
+
+        def possible(capacity):
+            days_taken = 0
+            cur_capacity = capacity
             for weight in weights:
-                if cur + weight <= val:
-                    cur += weight
-                else:
-                    cur = weight
-                    day += 1
-
-            return day
-
-        while l < r:
-            mid = l + (r-l)//2
-
-            if calc(mid) > days:
-                l = mid + 1
-            else:
-                r = mid
+                if weight > cur_capacity:
+                    cur_capacity = capacity
+                    days_taken += 1
+                
+                cur_capacity -= weight
+            
+            days_taken += 1
+            print(capacity, days_taken)
+            return days_taken <= days
         
-        return l
+        left = max(weights)
+        right = sum(weights)
 
+        while left < right:
+            mid = left + (right - left)//2
+
+            if possible(mid):
+                right = mid
+            else:
+                left = mid + 1
+        
+        return left

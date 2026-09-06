@@ -1,28 +1,36 @@
-import math
+from math import ceil
+
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
         '''
-        PAttern - Binary Search on ANswer
-        TC - TC - O(n * log(max(weights)))
-        SC - O(1)
-        '''
-
+        binary search on the speed range k, need min speed
         l = 1
         r = max(piles)
 
-        def calc(rate):
-            ans = 0
-            for pile in piles:
-                ans += math.ceil(pile/rate)
-            
-            return ans
-        
-        while l < r:
-            mid = l + (r-l)//2
+        possible func - 
+        takes speed of input and checks if all banas can be eaten in h hours
 
-            if calc(mid) > h:
-                l = mid + 1
-            else:
-                r = mid
+        if possible - do r = mid
+        else l = mid + 1
+
+        '''
+
+        def possible(speed):
+            hours_taken = 0
+            for pile in piles:
+                hours_taken += ceil(pile/speed)
+            
+            return hours_taken <= h
         
-        return l
+        left = 1
+        right = max(piles)
+
+        while left < right:
+            mid = left + (right - left) // 2
+
+            if possible(mid):
+                right = mid
+            else:
+                left = mid + 1
+        
+        return left

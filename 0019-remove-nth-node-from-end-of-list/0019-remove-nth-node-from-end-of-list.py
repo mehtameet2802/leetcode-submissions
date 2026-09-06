@@ -15,14 +15,14 @@ class Solution:
         n = cnt - n
 
         if n == 0:
-            head = head.next
-            return head
+            return head.next
 
+        prev = None
         temp = head
-        while n>0:
+        while n > 0:
             prev = temp
             temp = temp.next
-            n -= 1 
+            n -= 1
         
         prev.next = temp.next
         return head

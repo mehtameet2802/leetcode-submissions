@@ -1,19 +1,17 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        seen = set()
-
+        seen = {}
         left = 0
         max_length = 0
 
         for right in range(len(s)):
-            
-            while s[right] in seen:
-                seen.remove(s[left])
-                left += 1
-            
-            seen.add(s[right])
-            max_length = max(max_length, right - left + 1)
-            
-        return max_length
+            cur_ch = s[right]
 
+            if cur_ch in seen:
+                left = max(left, seen[cur_ch]+1)
             
+            max_length = max(max_length, right - left + 1)
+
+            seen[cur_ch] = right
+
+        return max_length

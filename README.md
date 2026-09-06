@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0494-target-sum) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0611-valid-triangle-number) |
@@ -1258,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0455-assign-cookies) |
@@ -1345,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |

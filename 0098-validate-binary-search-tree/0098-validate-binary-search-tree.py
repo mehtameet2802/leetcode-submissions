@@ -18,7 +18,7 @@ class Solution:
         also if propogation is happening from the root node then we will have to pass limits such that both left and right nodes values are within their respective limits
 
         TC - o(n)
-        sc - O(h), h -n or log n
+        sc - O(h), h is n or log n
 
         '''
 

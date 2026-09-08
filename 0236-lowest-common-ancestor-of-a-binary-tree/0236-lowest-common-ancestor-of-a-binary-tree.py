@@ -7,22 +7,60 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        def helper(node):
-            if not node:
-                return None
-            
+        '''
+        What does helper(node) return? - it returns none or LCA node, which can be p or q itself 
+        When does a node return itself? - when itself is p or q
+        When do both child calls returning non-null prove the answer is node? - it means both the childs are p and q and hence current node is LCA so return current node
+
+        pseudocode - 
+        def helper
+            if not node return None
             if node == p or node == q:
                 return node
 
             left = helper(node.left)
             right = helper(node.right)
 
-            if left and right:
+            if left == p and right == q:
+                return node
+            if right == q and left == p:
                 return node
 
-            if left:
+            if left == p  or left == q:
                 return left
             
-            return right
+            if right == p or right == q:
+                return right
         
+        return helper(root)
+
+        Complexity - TC - O(n), SC - O(h) h is n, log n
+        '''
+
+        def helper(node):
+            if not node:
+                return None
+            
+            if node.val == p.val or node.val == q.val:
+                return node
+            
+            left = helper(node.left)
+            right = helper(node.right)
+
+            if not left and not right:
+                return None
+            elif not left and right:
+                return right
+            elif not right and left:
+                return left
+
+            if left and right and ((left.val == p.val and right.val == q.val) or (right.val == p.val and left.val == q.val)):
+                return node
+            elif left and (left.val == p.val or left.val == q.val):
+                return left
+            elif right and (right.val == p.val or right.val == q.val):
+                return right
+            else:
+                return node
+
         return helper(root)

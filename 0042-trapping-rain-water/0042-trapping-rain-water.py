@@ -1,30 +1,26 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         '''
-        left pointer on left start
-        right pointer on right start
-        the pointer wiht lower height moves forward
-        at each index, it is checked if left is smaller or right is smaller
-        at each array index max of left and max of right is calculated
-        water is added which is max of current min - current min
-        return ans
+        What does max_left represent? - it represnets the max height boundary on the left
+        What does max_right represent? - it represnets the max height boundary on the right
+        Why is it safe to process the shorter boundary? - that is max height that the water can reach and be stored, beyond that overfill and spilling will happen and no storing
+        What water amount is finalized at that pointer?, the width at each pointer is 1, so water amount is min(max_left, max_right) - height
         '''
 
         left = 0
         right = len(height) - 1
-        max_l = 0
-        max_r = 0
+        max_left = 0
+        max_right = 0
         ans = 0
 
-        while left < right:
+        while left <= right :
             if height[left] < height[right]:
-                max_l = max(height[left], max_l)
-                ans += max_l - height[left]
+                max_left = max(max_left, height[left])
+                ans += max_left - height[left]
                 left += 1
             else:
-                max_r = max(height[right], max_r)
-                ans += max_r - height[right]
+                max_right = max(max_right, height[right])
+                ans += max_right - height[right]
                 right -= 1
-        
+
         return ans
-            

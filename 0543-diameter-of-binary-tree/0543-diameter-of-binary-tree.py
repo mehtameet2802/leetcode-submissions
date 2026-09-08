@@ -22,6 +22,9 @@ class Solution:
         outside the helper definition return the ans
 
         Complexity: O(n)
+        Space: O(h)
+        Worst case: O(n) for a skewed tree
+        Balanced tree: O(log n)
         '''
 
 

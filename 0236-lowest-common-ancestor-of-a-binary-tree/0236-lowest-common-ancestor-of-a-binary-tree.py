@@ -47,20 +47,9 @@ class Solution:
             left = helper(node.left)
             right = helper(node.right)
 
-            if not left and not right:
-                return None
-            elif not left and right:
-                return right
-            elif not right and left:
-                return left
-
-            if left and right and ((left.val == p.val and right.val == q.val) or (right.val == p.val and left.val == q.val)):
+            if left and right:
                 return node
-            elif left and (left.val == p.val or left.val == q.val):
-                return left
-            elif right and (right.val == p.val or right.val == q.val):
-                return right
-            else:
-                return node
+            
+            return left or right
 
         return helper(root)

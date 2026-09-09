@@ -18,7 +18,7 @@ class Solution:
         COLS = len(grid[0])
         queue = deque()
 
-        if grid[0][0] or grid[ROWS-1][COLS-1] == 1:
+        if grid[0][0] == 1 or grid[ROWS-1][COLS-1] == 1:
             return -1
 
         visited = set()

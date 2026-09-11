@@ -1,5 +1,10 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        '''
+        tc - o(v+e)
+        sc - o(v+e)
+        '''
+
         graph = defaultdict(list)
         indegree = [0]*numCourses
         visitedNodes = 0

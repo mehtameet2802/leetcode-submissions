@@ -17,7 +17,7 @@ class DSU:
         if first_parent == second_parent:
             return False
 
-        if self.size[second_parent] < self.size[first_parent]:
+        if self.size[first_parent] < self.size[second_parent]:
             first_parent, second_parent = second_parent, first_parent
         
         self.parent[second_parent] = first_parent
@@ -34,7 +34,7 @@ class Solution:
         How are two components combined?
         What condition identifies the answer?
         Invariant:
-        Complexity:
+        Complexity: SC - O(V), TC - O(E)
 
         I think we should DSU, as in this problem the edges are provided one after other and its asked to determine of adding this edge will lead to a cycle or not, a cycle occur if we cannot union as the parent of the nodes in new edge being added is already same, hence new edge cannot be added, and the very first edge that cannot be added by union is out answer
         '''

@@ -1,25 +1,36 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
+        '''
+        What does each node’s state represent?
+        When is a neighboring node valid?
+        What exact condition proves failure?
+        When should state be assigned?
+        How will disconnected components be handled?
+        Invariant:
+        Complexity:
+        '''
         n = len(graph)
-
         color = [-1]*n
 
-        for i in range(n):
-            if color[i] != -1:
+        for node in range(n):
+            if color[node] != -1:
                 continue
+            
+            color[node] = 0
+            queue = deque([node])
 
-            color[i] = 0
+            while queue:
+                cur_node = queue.popleft()
 
-            q = deque([i])
-
-            while q:
-                u = q.popleft()
-
-                for v in graph[u]:
-                    if color[v] == color[u]:
+                for nei in graph[cur_node]:
+                    if color[nei] == color[cur_node]:
                         return False
-                    elif color[v] == -1:
-                        color[v] = 1-color[u]
-                        q.append(v)
+                    
+                    if color[nei] != -1:
+                        continue
+                    
+                    color[nei] = 1 - color[cur_node]
+                    queue.append(nei)
         
         return True
+

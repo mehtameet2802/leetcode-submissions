@@ -8,15 +8,15 @@
 class Codec:
 
     '''
-    Required output: - convert tree to serialized string, and then deserialize the string to get the tree
-    What must serialization preserve? - the 
-    How will a missing child be represented? - -1001 value
-    What does deserialize consume at each step? 
-    What does recursive helper return? - 
-    Invariant:
-    Pseudocode:
-    Complexity: - O(n), SC - O(n) - for the arrat used
-    Dangerous cases:
+    What information must serialization preserve?
+    How will null children be represented?
+    What does the serialization queue contain?
+    What does the deserialization queue contain?
+    What does the token pointer represent?
+    How many tokens does each processed parent consume?
+    Serialization invariant:
+    Deserialization invariant:
+    Expected TC and SC:
     '''
 
     def serialize(self, root):
@@ -28,31 +28,20 @@ class Codec:
         if not root:
             return ""
 
-        queue = deque()
-        queue.append(root)
-        serialized = [str(root.val)]
+        serialized = []
+        queue = deque([root])
 
         while queue:
-            
-            length = len(queue)
+            node = queue.popleft()
 
-            for _ in range(length):
-                node = queue.popleft()
-
-                if node.left:
-                    queue.append(node.left)
-                    serialized.append(str(node.left.val))
-                else:
-                    serialized.append("#")
-                
-                if node.right:
-                    queue.append(node.right)
-                    serialized.append(str(node.right.val))
-                else:
-                    serialized.append("#")
-
+            if not node:
+                serialized.append("#")
+            else:
+                serialized.append(str(node.val))
+                queue.append(node.left)
+                queue.append(node.right)
+        
         return ",".join(serialized)
-
         
 
     def deserialize(self, data):
@@ -61,43 +50,37 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-        deserialized = data.split(",")
         if data == "":
             return None
-        
-        root = TreeNode(deserialized[0])
-        queue = deque()
-        queue.append(root)
-        i = 0
+
+        deserialized = data.split(",")
+
+        idx = 0
+        root = TreeNode(int(deserialized[idx]))
+        queue = deque([root])
 
         while queue:
-            length = len(queue)
+            node = queue.popleft()
 
-            for _ in range(length):
-                node = queue.popleft()
-
-                i+=1
-
-                if deserialized[i] != "#":
-                    left_node = TreeNode(int(deserialized[i]))
-                    node.left = left_node
-                    queue.append(left_node)
-                else:
+            idx += 1
+            if idx<len(deserialized):
+                if deserialized[idx] == "#":
                     node.left = None
-                    
-                i+=1
-                if deserialized[i] != "#":
-                    right_node = TreeNode(int(deserialized[i]))
-                    node.right = right_node
-                    queue.append(right_node)
                 else:
+                    node.left = TreeNode(int(deserialized[idx]))
+                    queue.append(node.left)
+
+            idx += 1
+            if idx<len(deserialized):
+                if deserialized[idx] == "#":
                     node.right = None
-        
-        return root
+                else:
+                    node.right = TreeNode(deserialized[idx])
+                    queue.append(node.right)
 
-        
+        return root 
 
-        
+
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()

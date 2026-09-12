@@ -16,7 +16,7 @@ class Codec:
     How many tokens does each processed parent consume?
     Serialization invariant:
     Deserialization invariant:
-    Expected TC and SC:
+    Expected TC and SC: both O(n)
     '''
 
     def serialize(self, root):

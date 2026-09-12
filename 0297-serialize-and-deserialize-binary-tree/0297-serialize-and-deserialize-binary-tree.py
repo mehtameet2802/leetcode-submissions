@@ -75,7 +75,7 @@ class Codec:
                 if deserialized[idx] == "#":
                     node.right = None
                 else:
-                    node.right = TreeNode(deserialized[idx])
+                    node.right = TreeNode(int(deserialized[idx]))
                     queue.append(node.right)
 
         return root 

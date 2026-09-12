@@ -11,7 +11,7 @@ class Solution:
         What makes the returned result optimal? - we use bfs and in that all the combinations acheived in a particular number of operations, are stored together in the queue, so this ensures that the target is found in min number of operations 
         When should a state be marked visited? - in visited set add the combination
         Invariant:
-        Expected TC and SC: 
+        Expected TC and SC: TC -  SC - 
         '''
 
         if "0000" in deadends or target in deadends:
@@ -21,6 +21,7 @@ class Solution:
         queue.append(("0000",0))
         visited = set()
         visited.add("0000")
+        deadends = set(deadends)
 
         while queue:
             length = len(queue)
@@ -34,6 +35,9 @@ class Solution:
                 for idx in range(4):
                     new_state1 = state[:idx] + str((int(state[idx])+1)%10) + state[idx+1:]
                     new_state2 = state[:idx] + str((int(state[idx])-1)%10) + state[idx+1:]
+
+                    if new_state1 == target or new_state2 == target:
+                        return opt + 1
                     
                     if new_state1 not in deadends and new_state1 not in visited:
                         visited.add(new_state1)

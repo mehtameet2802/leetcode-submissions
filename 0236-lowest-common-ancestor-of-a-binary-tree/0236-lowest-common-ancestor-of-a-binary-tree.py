@@ -28,9 +28,6 @@ class Solution:
             left = helper(node.left)
             right = helper(node.right)
 
-            if not left and not right:
-                return None
-
             if left and right:
                 return node
             

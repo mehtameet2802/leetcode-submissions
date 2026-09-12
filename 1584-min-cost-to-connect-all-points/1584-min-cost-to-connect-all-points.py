@@ -29,6 +29,13 @@ class Solution:
         when getting points from min_heap add the dist to ans
         '''
 
+        '''
+        V - len(points)
+        TC - O((V+E)logV) wrong its O(V^2 log V)
+        SC - O(V) - wrong O(V^2)
+        There is an optimized version
+        '''
+
         
         visited = set()
         min_heap = []

@@ -1,5 +1,12 @@
 class Solution:
     def kSmallestPairs(self, nums1: List[int], nums2: List[int], k: int) -> List[List[int]]:
+        '''
+        m = len(num1)
+        SC - O(m)
+        TC - O(mlogm + klogm)
+        '''
+
+
         min_heap = []
 
         for idx,num1 in enumerate(nums1):

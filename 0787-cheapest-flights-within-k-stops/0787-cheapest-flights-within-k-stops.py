@@ -1,51 +1,106 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        
-#         cost = [float('inf')]*n
+        '''
+        Required output: min cost to reach dest from start given at max k stops
 
-#         graph = defaultdict(list)
-#         for u,v,w in flights:
-#             graph[u].append((v,w))
+        What does k limit: stops or edges? k determines stops
 
-#         queue = deque([])
-#         queue.append((src,0))
+        What must one state represent? - cur_node, cost, stops
 
-#         cost = [[float('inf')]*(k+2) for _ in range(n)]
-#         cost[src][0] = 0
+        Why might distance[node] alone lose necessary information?
 
-#         while queue:
-#             src, depth = queue.popleft()
+        Can ordinary BFS work? - No, as the prices are different
 
-#             if depth == k+1:
-#                 continue
+        Can ordinary node-only Dijkstra work safely? we midht need to store num of stops
 
-#             for nei, weight in graph[src]:
-#                 if cost[src][depth] + weight > cost[nei][depth + 1]:
-#                     continue
-                
-#                 cost[nei][depth+1] = cost[src][depth] + weight
-#                 queue.append((nei,depth+1))
-        
-#         return min(cost[dst]) if min(cost[dst]) != float('inf') else -1
+        Pattern prediction:
 
-        cost = [float('inf')]*n
-        cost[src] = 0
+        What information must be preserved between iterations?
 
-        for _ in range(k+1):
+        Invariant:
 
-            new_cost = cost[:]
+        Number of relaxation rounds:
 
-            for u,v,w in flights:
-                if cost[u] == float('inf'):
-                    continue
+        Expected TC and SC:
 
-                if cost[u] + w > new_cost[v]:
-                    continue
+        Dangerous cases:
+        - src == dst
+        - direct flight
+        - cheapest route uses too many stops
+        - duplicate flights
+        - unreachable destination
+        '''
 
-                new_cost[v] = cost[u]+w 
+        # graph = defaultdict(list)
+        # for u,v,w in flights:
+        #     graph[u].append((v,w))
+
+        # max_k = k+2
+        # distance = [[float('inf'),max_k] for _ in range(n)]
+        # min_heap = []
+        # heapq.heappush(min_heap,(1,0,src))
+        # distance[src] = [0,1]
+
+        # while min_heap:
+        #     cur_k, cur_dist, node = heapq.heappop(min_heap)
+
+        #     if cur_k > max_k:
+        #         continue
+
+        #     if cur_dist > distance[node][0]:
+        #         continue
             
-            cost = new_cost
+        #     for nei, weight in graph[node]:
+        #         new_dist = cur_dist + weight
+        #         new_k = cur_k + 1
+
+        #         if new_k > max_k:
+        #             continue
+
+        #         if new_dist > distance[nei][0]:
+        #             continue
+
+        #         distance[nei][0] = new_dist
+        #         distance[nei][1] = cur_k + 1
+        #         heapq.heappush(min_heap, (new_k, new_dist ,nei))
         
-        return -1 if cost[dst] == float('inf') else cost[dst]
+        # return -1 if distance[dst][0] == float('inf') else distance[dst][0]
+
+        graph = defaultdict(list)
+        for u,v,w in flights:
+            graph[u].append((v,w))
+
+        max_k = k+2
+        distance = [[float('inf') for _ in range(max_k)]  for _ in range(n)]
+        min_heap = []
+        heapq.heappush(min_heap,(0,0,src))
+        distance[src][0] = 0
+
+        while min_heap:
+            cur_dist, cur_k, node = heapq.heappop(min_heap)
+
+            if cur_k >= max_k:
+                continue
+
+            if cur_dist > distance[node][cur_k]:
+                continue
+            
+            for nei, weight in graph[node]:
+                new_dist = cur_dist + weight
+                new_k = cur_k + 1
+
+                if new_k >= max_k:
+                    continue
+
+                if new_dist < distance[nei][new_k]:
+                    distance[nei][new_k] = new_dist
+                    heapq.heappush(min_heap, (new_dist, new_k, nei))
+
+        min_dist = min(distance[dst])
         
+        return -1 if min_dist == float('inf') else min_dist
+
+
+            
+
 

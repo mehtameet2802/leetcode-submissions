@@ -54,3 +54,6 @@ class Solution:
         
         return total_cost
 
+        # n - number of points
+        # TC - O(n^2 log n)
+        # SC - O(n^2)

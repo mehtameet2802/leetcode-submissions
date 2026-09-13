@@ -67,21 +67,43 @@ class Solution:
         visited = set()
         stack = []
 
-        def helper(node):
+        def component_size(node):
+            stack.append(node)
             visited.add(node)
+            size = 0
 
-            cnt = 0
-            for nei in graph[node]:
-                if nei in visited:
-                    continue
+            while stack:
+                cur_node = stack.pop()
+                size += 1
 
-                cnt += helper(nei)
+                for nei in graph[cur_node]:
+                    if nei in visited:
+                        continue
+                    
+                    stack.append(nei)
+                    visited.add(nei)
             
-            return cnt + 1
+            return size
+
+        # def helper(node):
+        #     visited.add(node)
+
+        #     cnt = 0
+        #     for nei in graph[node]:
+        #         if nei in visited:
+        #             continue
+
+        #         cnt += helper(nei)
+            
+        #     return cnt + 1
+
+        # for node in range(n):
+        #     if node not in visited:
+        #         nodes_arr.append(helper(node))
 
         for node in range(n):
             if node not in visited:
-                nodes_arr.append(helper(node))
+                nodes_arr.append(component_size(node))
 
         ans = 0
         

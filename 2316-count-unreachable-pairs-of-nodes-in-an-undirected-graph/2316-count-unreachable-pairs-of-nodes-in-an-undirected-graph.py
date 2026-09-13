@@ -82,8 +82,11 @@ class Solution:
         for node in range(n):
             if node not in visited:
                 nodes_arr.append(helper(node))
-        
+
         ans = 0
+        
+        # nodes_arr.sort()
+
         # for i in range(len(nodes_arr)):
         #     for j in range(i+1,len(nodes_arr)):
         #         ans += nodes_arr[i]*nodes_arr[j]

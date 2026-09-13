@@ -65,6 +65,7 @@ class Solution:
 
         nodes_arr = []
         visited = set()
+        stack = []
 
         def helper(node):
             visited.add(node)
@@ -82,8 +83,6 @@ class Solution:
             if node not in visited:
                 nodes_arr.append(helper(node))
         
-        nodes_arr.sort()
-
         ans = 0
         # for i in range(len(nodes_arr)):
         #     for j in range(i+1,len(nodes_arr)):

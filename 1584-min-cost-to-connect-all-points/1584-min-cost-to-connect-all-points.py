@@ -1,73 +1,56 @@
+class DSU:
+    def __init__(self,n):
+        self.parent = [idx for idx in range(n)]
+        self.size = [1]*n
+
+    def find(self,node):
+        if self.parent[node] != node:
+            self.parent[node] = self.find(self.parent[node])
+        
+        return self.parent[node]
+    
+    def union(self,first,second):
+        first_parent = self.find(first)
+        second_parent = self.find(second)
+
+        if first_parent == second_parent:
+            return False
+        
+        if self.size[first] < self.size[second]:
+            first_parent, second_parent = second_parent, first_parent
+        
+        self.parent[second_parent] = first_parent
+        self.size[first_parent] += self.size[second_parent]
+
+        return True
+
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
-        '''
-        Required output:
-        What represents a node? - a point represnets a node
-        What represents an edge? - a path from one point to other is edge 
-        How is an edge cost calculated? - its the manhattan distance
-        What properties must the final connections satisfy? - overall cost of creating all the connetions must be least
-        Would a cycle ever improve the answer? - no
-        Brute-force approach: fo each node calculate the minimum distance to all the other nodes and take the edeg for a node not reach yet and has the minimum distance 
-        Pattern prediction: MST, Prims
-        State/data structures required:
-        Decision rule:
-        Invariant:
-        Expected TC and SC:
-        '''
-
-        '''
-        will create an undirected graph
-        have a set visited
-        take the first node and push in min heap
-        while min_heap
-        get the first node if not in visisted, iterate all its nei and add the manhattan dist of reaching all nei in min_heap
-        do this until all the nodes reached and add the cost to get the final ans
-
-        while writing code realized we did not have edges, we have points,
-        so first we take point 0, calculate dist from point 0 to all the other points and push in min_heap
-        while min_heap, I get the point with min dist and if not visited calculate the dist from that point to all the remaining points and push in min_heap
-        when getting points from min_heap add the dist to ans
-        '''
-
-        '''
-        V - len(points)
-        TC - O((V+E)logV) wrong its O(V^2 log V)
-        SC - O(V) - wrong O(V^2)
-        There is an optimized version
-        '''
-
         
-        visited = set()
-        min_heap = []
-        heapq.heappush(min_heap,(0,points[0][0],points[0][1]))
-        
-        points_set = set()
+        edges = []
+        for i in range(len(points)):
+            first_x, first_y = points[i][0], points[i][1]
+            for j in range(i+1, len(points)):
+                second_x, second_y = points[j][0], points[j][1]
 
-        for x,y in points:
-            points_set.add((x,y))
+                dist = abs(first_x-second_x) + abs(first_y-second_y)
 
-        ans = 0
+                edges.append([dist,i,j])
 
-        while min_heap:
-            d, x, y = heapq.heappop(min_heap)
+        edges.sort()
 
-            if (x,y) in visited:
-                continue
+        n = len(points)
+        dsu = DSU(n)
+        total_cost = 0
+        edges_merged = 0
 
-            ans += d
+        for d,u,v in edges:
+            if dsu.union(u,v):
+                total_cost += d
+                edges_merged += 1
             
-            visited.add((x,y))
-            points_set.remove((x,y))
-
-            for nx, ny in points_set:
-                if (nx,ny) in visited:
-                    continue
-                dist = abs(nx-x) + abs(ny-y)
-                heapq.heappush(min_heap, (dist,nx,ny))
+            if edges_merged == n-1:
+                break
         
-        return ans
-
-
-
-
+        return total_cost
 

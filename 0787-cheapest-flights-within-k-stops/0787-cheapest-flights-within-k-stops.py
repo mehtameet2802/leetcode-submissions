@@ -65,42 +65,64 @@ class Solution:
         #         heapq.heappush(min_heap, (new_k, new_dist ,nei))
         
         # return -1 if distance[dst][0] == float('inf') else distance[dst][0]
+        
 
-        graph = defaultdict(list)
-        for u,v,w in flights:
-            graph[u].append((v,w))
 
-        max_k = k+2
-        distance = [[float('inf') for _ in range(max_k)]  for _ in range(n)]
-        min_heap = []
-        heapq.heappush(min_heap,(0,0,src))
-        distance[src][0] = 0
+        # graph = defaultdict(list)
+        # for u,v,w in flights:
+        #     graph[u].append((v,w))
 
-        while min_heap:
-            cur_dist, cur_k, node = heapq.heappop(min_heap)
+        # max_k = k+2
+        # distance = [[float('inf') for _ in range(max_k)]  for _ in range(n)]
+        # min_heap = []
+        # heapq.heappush(min_heap,(0,0,src))
+        # distance[src][0] = 0
 
-            if cur_k >= max_k:
-                continue
+        # while min_heap:
+        #     cur_dist, cur_k, node = heapq.heappop(min_heap)
 
-            if cur_dist > distance[node][cur_k]:
-                continue
+        #     if cur_k >= max_k:
+        #         continue
+
+        #     if cur_dist > distance[node][cur_k]:
+        #         continue
             
-            for nei, weight in graph[node]:
-                new_dist = cur_dist + weight
-                new_k = cur_k + 1
+        #     for nei, weight in graph[node]:
+        #         new_dist = cur_dist + weight
+        #         new_k = cur_k + 1
 
-                if new_k >= max_k:
+        #         if new_k >= max_k:
+        #             continue
+
+        #         if new_dist < distance[nei][new_k]:
+        #             distance[nei][new_k] = new_dist
+        #             heapq.heappush(min_heap, (new_dist, new_k, nei))
+
+        # min_dist = min(distance[dst])
+        
+        # return -1 if min_dist == float('inf') else min_dist
+
+        costs = [float('inf') for _ in range(n)]
+        costs[src] = 0
+
+        for _ in range(k+1):
+        
+            new_costs = costs.copy()
+
+            for start, dest, flight_cost in flights:
+                if costs[start] == float('inf'):
                     continue
 
-                if new_dist < distance[nei][new_k]:
-                    distance[nei][new_k] = new_dist
-                    heapq.heappush(min_heap, (new_dist, new_k, nei))
+                new_cost = flight_cost + costs[start]
 
-        min_dist = min(distance[dst])
-        
-        return -1 if min_dist == float('inf') else min_dist
+                if new_cost < new_costs[dest]:
+                    new_costs[dest] = new_cost
 
+            costs = new_costs
 
-            
+        if costs[dst] == float('inf'):
+            return -1
+
+        return costs[dst]           
 
 

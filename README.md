@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2059-minimum-operations-to-convert-number) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |

@@ -67,7 +67,7 @@ class Solution:
         visited = set()
         stack = []
 
-        def component_size(node):
+        def get_component_size(node):
             stack.append(node)
             visited.add(node)
             size = 0
@@ -103,7 +103,7 @@ class Solution:
 
         for node in range(n):
             if node not in visited:
-                nodes_arr.append(component_size(node))
+                nodes_arr.append(get_component_size(node))
 
         ans = 0
         

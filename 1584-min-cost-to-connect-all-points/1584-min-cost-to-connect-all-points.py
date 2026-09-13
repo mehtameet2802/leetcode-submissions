@@ -16,7 +16,7 @@ class DSU:
         if first_parent == second_parent:
             return False
         
-        if self.size[first] < self.size[second]:
+        if self.size[first_parent] < self.size[second_parent]:
             first_parent, second_parent = second_parent, first_parent
         
         self.parent[second_parent] = first_parent

@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1348-tweet-counts-per-frequency](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1348-tweet-counts-per-frequency) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1630-arithmetic-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1710-maximum-units-on-a-truck) |
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1382-balance-a-binary-search-tree) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |

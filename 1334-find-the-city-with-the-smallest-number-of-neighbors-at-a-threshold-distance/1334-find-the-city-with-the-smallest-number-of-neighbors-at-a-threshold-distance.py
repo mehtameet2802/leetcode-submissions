@@ -1,42 +1,48 @@
 class Solution:
     def findTheCity(self, n: int, edges: List[List[int]], distanceThreshold: int) -> int:
-        INF = float('inf')
-
-        dist = [[INF]*n for _ in range(n)]
+        '''
+        dist[i][j] represents: - dist from node i to j
+        Initial diagonal values: - 0
+        Initial edge values: - float(inf)
+        Intermediate-node invariant:
+        Update formula: - if from i to k and k to j sum is less than dist from i to j
+        Tie-breaking rule:
+        Expected TC: O(V^3)
+        Expected SC: O(V+E)
+        '''
+        ROWS = n
+        dist = [[float('inf') for i in range(n)] for j in range(n)]
 
         for i in range(n):
             dist[i][i] = 0
 
         for u,v,w in edges:
-            dist[u][v] = min(dist[u][v], w)
-            dist[v][u] = min(dist[v][u], w)
+            dist[u][v] = w
+            dist[v][u] = w
 
         for k in range(n):
             for i in range(n):
                 for j in range(n):
-
-                    if dist[i][k]==INF or dist[k][j]==INF:
+                    if dist[i][k]==float('inf') or dist[k][j]==float('inf'):
                         continue
+                    
+                    dist[i][j] = min(dist[i][j], dist[i][k]+dist[k][j])
 
-                    dist[i][j] = min(
-                        dist[i][j],
-                        dist[i][k] + dist[k][j]
-                    )
 
-        min_count = INF
+        min_cnt = n
         ans = -1
 
         for i in range(n):
-            count = 0
+            cur_cnt = 0 
 
             for j in range(n):
-                if dist[i][j] <= distanceThreshold:
-                    count += 1
+                if j!=i and dist[i][j] <= distanceThreshold:
+                    cur_cnt += 1
             
-            if count <= min_count:
-                min_count = count
+            if cur_cnt <= min_cnt:
+                min_cnt = cur_cnt
                 ans = i
-        
+
         return ans
 
-        return dist
+

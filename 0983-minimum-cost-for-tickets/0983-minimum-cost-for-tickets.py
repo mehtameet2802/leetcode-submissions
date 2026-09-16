@@ -1,34 +1,18 @@
 class Solution:
-    def mincostTickets(self, days: List[int], costs: List[int]) -> int:
+    def mincostTickets(self, days: list[int], costs: list[int]) -> int:
+        last_day = days[-1]
+        days = set(days)
+
+        dp = [0] * (last_day + 1)
+
+        for day in range(1, last_day + 1):
+            if day not in days:
+                dp[day] = dp[day-1]
+            else:
+                dp[day] = min(
+                    dp[max(0,day-1)] + costs[0],
+                    dp[max(0,day-7)] + costs[1],
+                    dp[max(0,day-30)] + costs[2]
+                )
         
-        day = {
-            0:1,
-            1:7,
-            2:30
-        }
-        
-        dp = {}
-
-        def helper(i, reach):
-
-            if (i,reach) in dp:
-                return dp[(i,reach)]
-
-            if i >= len(days):
-                return 0
-            
-            ans = float('inf')
-
-            if days[i]<=reach:
-                ans = helper(i+1, reach)
-                dp[(i,reach)] = ans
-                return ans
-
-            for j in range(len(costs)):
-                ans = min(ans, costs[j] + helper(i+1,days[i] + day[j]-1))
-            
-            dp[(i,reach)] = ans
-            return ans
-
-        return helper(0, 0)
-
+        return dp[last_day]

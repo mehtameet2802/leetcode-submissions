@@ -25,7 +25,6 @@ class Solution:
                 fuel += ceil(people/seats)
             return people
 
-        visited.add(0)
         helper(0)
         
         return fuel

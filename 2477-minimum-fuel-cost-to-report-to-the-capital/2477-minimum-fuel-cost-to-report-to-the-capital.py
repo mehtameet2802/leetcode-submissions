@@ -14,17 +14,15 @@ class Solution:
 
             visited.add(node)
 
-            people = 0
+            people = 1
             for nei in graph[node]:
                 if nei in visited:
                     continue
 
                 people += helper(nei)
             
-            if node == 0:
-                return people
-            people += 1
-            fuel += ceil(people/seats)
+            if node != 0:
+                fuel += ceil(people/seats)
             return people
 
         visited.add(0)

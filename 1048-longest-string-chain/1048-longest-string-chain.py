@@ -34,8 +34,35 @@ class Solution:
         # return ans
 
 
+        # '''
+        # iterative 1d approach
+        # '''
+
+        # words.sort(key=len)
+
+        # dp = defaultdict(int)
+
+        # ans = 0
+
+        # def helper(word):
+        #     longest_after = 0
+        #     n = len(word)
+        #     for i in range(n+1):
+        #         for j in range(26):
+        #             new_word = word[0:i]+chr(j+ord('a'))+word[i:n]
+        #             longest_after = max(longest_after, dp[new_word])
+            
+        #     dp[word] = longest_after+1
+        #     return longest_after+1
+
+        # for i in range(len(words)-1,-1,-1):
+        #     ans = max(ans, helper(words[i]))
+        
+        # return ans
+
+
         '''
-        iterative 1d approach
+        1d iterative optimized
         '''
 
         words.sort(key=len)
@@ -45,18 +72,17 @@ class Solution:
         ans = 0
 
         def helper(word):
-            longest_after = 0
+            longest_before = 0
             n = len(word)
-            for i in range(n+1):
-                for j in range(26):
-                    new_word = word[0:i]+chr(j+ord('a'))+word[i:n]
-                    longest_after = max(longest_after, dp[new_word])
+            for i in range(n):
+                past_word = word[0:i]+word[i+1:n]
+                longest_before = max(longest_before, dp[past_word])
             
-            dp[word] = longest_after+1
-            return longest_after+1
+            dp[word] = longest_before+1
+            return longest_before+1
 
-        for i in range(len(words)-1,-1,-1):
-            ans = max(ans, helper(words[i]))
+        for word in words:
+            ans = max(ans, helper(word))
         
         return ans
                     

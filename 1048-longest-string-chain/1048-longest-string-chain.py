@@ -12,17 +12,17 @@ class Solution:
             if word in dp:
                 return dp[word]
             
-            cnt = 0
+            longest_after = 0
             n = len(word)
             for i in range(n+1):
                 for j in range(26):
                     new_word = word[0:i]+chr(j+ord('a'))+word[i:n]
                     
                     if new_word in words_set:
-                        cnt = max(cnt,helper(new_word))
+                        longest_after = max(longest_after,helper(new_word))
             
-            dp[word] = cnt+1
-            return cnt+1
+            dp[word] = longest_after+1
+            return longest_after+1
 
         for word in words:
             ans = max(ans, helper(word))

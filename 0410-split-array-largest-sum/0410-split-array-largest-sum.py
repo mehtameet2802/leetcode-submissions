@@ -1,32 +1,35 @@
 class Solution:
     def splitArray(self, nums: List[int], k: int) -> int:
-        left = max(nums)
-        right = sum(nums)
-
-        if k == 1:
-            return right
-        
-        def possible(capacity):
-            groups = 0
-            cur_capacity = capacity
+        def possible(val):
+            cur_val = val
+            cnt = 1
 
             for num in nums:
-                if num > cur_capacity:
-                    groups += 1
-                    cur_capacity = capacity
-                
-                cur_capacity -= num
-
-            groups += 1
-            return groups <= k
+                if cur_val >= num:
+                    cur_val -= num
+                else:
+                    cnt += 1
+                    cur_val = val - num
         
+            return cnt <= k
 
-        while left < right:
-            mid = left + (right - left) // 2
+        l = max(nums)
+        r = sum(nums)
 
+        while l<r:
+            mid = l + (r-l)//2
             if possible(mid):
-                right = mid
+                r = mid
             else:
-                left = mid + 1
+                l = mid + 1
         
-        return left
+        return l
+
+
+
+
+
+
+
+
+      

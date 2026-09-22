@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0274-h-index) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -1437,6 +1440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -1457,6 +1461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
@@ -1917,6 +1922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 ## Pigeonhole Principle
 |  |
 | ------- |

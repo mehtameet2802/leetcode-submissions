@@ -1,28 +1,22 @@
 class Solution:
-    def minimumTime(self, time: List[int], totalTrips: int) -> int:
-        '''
-        Pattern - BInary Search on Answer
-        TC - O(N log(max(time)-min(time)))
-        SC - O(1)
-        '''
+    def minimumTime(self, time: list[int], totalTrips: int) -> int:
 
-        def tripsCompleted(curTime):
+        def possible(val):
             trips = 0
-            for cur in time:
-                if cur <= curTime:
-                    trips += curTime // cur
+            for t in time:
+                trips += val // t
             
-            return trips
-
-        l = min(time)
-        r = min(time)*totalTrips
-
-        while l < r:
-            mid = l + (r-l)//2
-
-            if tripsCompleted(mid) < totalTrips:
-                l = mid + 1
-            else:
-                r = mid
+            return trips >= totalTrips
         
-        return l
+        left = min(time)
+        right = totalTrips*left
+
+        while left < right:
+            mid = left + (right - left)//2
+
+            if possible(mid):
+                right = mid
+            else:
+                left = mid + 1
+
+        return left

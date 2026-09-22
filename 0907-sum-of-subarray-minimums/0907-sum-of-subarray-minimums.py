@@ -1,35 +1,34 @@
 class Solution:
-    def sumSubarrayMins(self, arr: List[int]) -> int:
+    def sumSubarrayMins(self, arr: list[int]) -> int:
         stack = []
-        left = [0]*len(arr)
-        right = [0]*len(arr)
+        ans = 0
 
-        for i in range(len(arr)):
-            while stack and arr[stack[-1]] > arr[i]:
-                stack.pop()
-            
-            if stack:
-                left[i] = i - stack[-1]
-            else:
-                left[i] = i+1
+        for i, num in enumerate(arr):
+            while stack and arr[stack[-1]] > num:
+                ele_idx = stack.pop()
+                if stack:
+                    left = stack[-1]
+                else:
+                    left = -1
+                
+                right = i
+
+                left_span = ele_idx - left
+                right_span = right - ele_idx
+                ans += arr[ele_idx] * left_span * right_span
             
             stack.append(i)
         
-        stack = []
-
-        for i in range(len(arr)-1,-1,-1):
-            while stack and arr[stack[-1]] >= arr[i]:
-                stack.pop()
-            
+        while stack:
+            ele_idx = stack.pop()
             if stack:
-                right[i] = stack[-1] - i
+                left = stack[-1]
             else:
-                right[i] = len(arr) - i
+                left = -1
             
-            stack.append(i)
+            right = len(arr)
+            left_span = ele_idx - left
+            right_span = right - ele_idx
+            ans += arr[ele_idx]*left_span*right_span
         
-        contribution = 0
-        for i in range(len(arr)):
-            contribution += arr[i] * left[i] * right[i]
-
-        return contribution % (pow(10,9) + 7)
+        return ans % (pow(10,9)+7)

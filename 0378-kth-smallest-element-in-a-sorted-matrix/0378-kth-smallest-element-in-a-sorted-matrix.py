@@ -9,7 +9,7 @@ class Solution:
         
         cnt = 0
 
-        while min_heap and cnt < k-1:
+        while cnt < k-1:
             ele, row_idx, ele_idx = heapq.heappop(min_heap)
 
             if ele_idx+1 < len(matrix[0]):

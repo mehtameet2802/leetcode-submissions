@@ -1,53 +1,45 @@
 class Solution:
-    def nextGreaterElements(self, nums: List[int]) -> List[int]:
-        # k = len(nums)
-        # nums += nums
+    def nextGreaterElements(self, nums: list[int]) -> list[int]:
         # stack = []
+        # n = len(nums)
+        # ans = [-1]*len(nums)
 
-        # print(nums)
+        # for i in range(2*n):
 
-        # for i in range(len(nums)):
-        #     j = i
-        #     while j < i+k and stack and nums[stack[-1]] <= nums[i]:
-        #         t = stack.pop()
-        #         nums[t] = nums[i]
-        #         j += 1
+        #     num = nums[i%n]
+        #     cur_idx = i%n
+
+        #     if ans[cur_idx] != -1:
+        #         continue
             
-        #     stack.append(i)
+        #     while stack and stack[-1][0] < num:
+        #         ele,idx = stack.pop()
+        #         ans[idx] = num
+            
+        #     if not stack:
+        #         stack.append((num,cur_idx))
+        #         continue
+            
+        #     if stack and stack[-1][0] > num:
+        #         stack.append((num,cur_idx))
         
-        # return nums[:k]
+        # return ans
 
-        n = len(nums)
-        ans = [-1] * n
+
         stack = []
+        n = len(nums)
+        ans = [-1]*len(nums)
 
-        # Traverse the array twice.
-        #
-        # First pass:
-        #   Find normal next greater elements.
-        #
-        # Second pass:
-        #   Allows elements near the end to find
-        #   a greater element near the beginning.
-        for i in range(2 * n):
+        for i in range(2*n):
 
-            idx = i % n
-
-            # Current element is greater than the
-            # unresolved elements on the stack.
-            while stack and nums[stack[-1]] < nums[idx]:
-                j = stack.pop()
-                ans[j] = nums[idx]
-
-            # Only put indices from the ORIGINAL array
-            # into the stack.
-            #
-            # We don't need to push during the second
-            # occurrence of the same index.
-            if i < n:
-                stack.append(idx)
-
+            num = nums[i%n]
+            
+            while stack and stack[-1][0] < num:
+                ele,idx = stack.pop()
+                ans[idx] = num
+            
+            if i<n:
+                stack.append((num,i))
+        
         return ans
 
-
-        

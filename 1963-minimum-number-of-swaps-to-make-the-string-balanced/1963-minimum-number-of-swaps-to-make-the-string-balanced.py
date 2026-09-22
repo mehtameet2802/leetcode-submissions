@@ -1,14 +1,23 @@
 class Solution:
     def minSwaps(self, s: str) -> int:
-        balance = 0
-        min_balance = 0
+        opening = 0
+        closing = 0
+        swaps = 0
+        n = len(s)
 
         for ch in s:
             if ch == '[':
-                balance += 1
+                if opening < n // 2:
+                    opening += 1
+                else:
+                    closing += 1
+                    swaps += 1
             else:
-                balance -= 1
-            
-            min_balance = min(min_balance, balance)
+                if opening > closing:
+                    closing += 1
+                else:
+                    opening += 1
+                    swaps += 1
         
-        return math.ceil(abs(min_balance)/2)
+        return swaps // 2
+

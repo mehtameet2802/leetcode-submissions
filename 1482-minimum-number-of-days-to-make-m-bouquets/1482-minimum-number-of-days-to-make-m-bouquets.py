@@ -1,41 +1,40 @@
 class Solution:
-    def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
-        '''
-        Pattern - BInary Search on Answer
-
-        TC - O(N log (max(bloomday) - min(bloomday)))
-        SC - O(1)
-        '''
-
+    def minDays(self, bloomDay: list[int], m: int, k: int) -> int:
+        
         if m*k > len(bloomDay):
             return -1
         
-        def can(day):
-            flowers = 0
-            bouqets = 0
+        def possible(val):
+            bouquet = 0
+            adjacency = 0
 
-            for bloom in bloomDay:
-                if bloom <= day:
-                    flowers += 1
+            for day in bloomDay:
+                if day <= val:
+                    adjacency += 1
 
-                    if flowers == k:
-                        bouqets += 1
-                        flowers = 0
+                    if adjacency == k:
+                        bouquet += 1
+                        adjacency = 0
+
+                        if bouquet >= m:
+                            return True
                 else:
-                    flowers = 0
-            
-            return bouqets >= m
+                    adjacency = 0
+
+            return False
 
 
-        start = min(bloomDay)
-        end = max(bloomDay)
+        right = max(bloomDay)
+        left = min(bloomDay)
 
-        while start < end:
-            mid = start + (end - start) // 2
+        while left < right:
+            mid = left + (right - left )//2
 
-            if can(mid):
-                end = mid
+            if possible(mid):
+                right = mid
             else:
-                start = mid + 1
-            
-        return start
+                left = mid + 1
+        
+        return left
+        
+

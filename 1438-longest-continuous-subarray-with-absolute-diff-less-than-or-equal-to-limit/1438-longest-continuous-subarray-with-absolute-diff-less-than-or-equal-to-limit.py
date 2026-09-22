@@ -1,42 +1,30 @@
 class Solution:
-    def longestSubarray(self, nums: List[int], limit: int) -> int:
-
-        '''
-        Pattern - Sliding Window + Deque
-
-        TC - O(N)
-        SC - O(N)
-        '''
-        
+    def longestSubarray(self, nums: list[int], limit: int) -> int:
+        min_q = deque()
+        max_q = deque()
         left = 0
         ans = 0
 
-        max_queue = deque([])
-        min_queue = deque([])
-
-        for right in range(len(nums)):
-
-            while max_queue and nums[max_queue[-1]] < nums[right]:
-                max_queue.pop()
+        for right, num in enumerate(nums):
+            while min_q and nums[min_q[-1]] > num:
+                min_q.pop()
             
-            max_queue.append(right)
+            min_q.append(right)
 
-            while min_queue and nums[min_queue[-1]] > nums[right]:
-                min_queue.pop()
+            while max_q and nums[max_q[-1]] < num:
+                max_q.pop()
             
-            min_queue.append(right)
+            max_q.append(right)
 
-            while abs(nums[max_queue[0]] - nums[min_queue[0]]) > limit:
+            while min_q and max_q and abs(nums[min_q[0]] - nums[max_q[0]]) > limit:
+                if min_q[0] == left:
+                    min_q.popleft()
                 
-                if max_queue[0] == left:
-                    max_queue.popleft()
+                if max_q[0] == left:
+                    max_q.popleft()
                 
-                if min_queue[0] == left:
-                    min_queue.popleft()
-
                 left += 1
             
-            ans = max(ans, right - left + 1)
-        
-        return ans
+            ans = max(ans,right - left + 1)
 
+        return ans

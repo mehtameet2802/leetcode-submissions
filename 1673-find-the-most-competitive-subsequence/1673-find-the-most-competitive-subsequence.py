@@ -1,12 +1,11 @@
 class Solution:
-    def mostCompetitive(self, nums: List[int], k: int) -> List[int]:
-        remove = len(nums) - k
+    def mostCompetitive(self, nums: list[int], k: int) -> list[int]:
         stack = []
+        n = len(nums)
 
-        for num in nums:
-            while stack and stack[-1] > num and remove > 0:
+        for i, num in enumerate(nums):
+            while stack and stack[-1] > num and (len(stack) + n-i) > k:
                 stack.pop()
-                remove -= 1
             
             stack.append(num)
         

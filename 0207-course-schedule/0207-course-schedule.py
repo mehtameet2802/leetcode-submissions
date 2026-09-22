@@ -1,36 +1,27 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        '''
-        tc - o(v+e)
-        sc - o(v+e)
-        '''
-
         graph = defaultdict(list)
-        indegree = [0]*numCourses
-        visitedNodes = 0
+        indegree = [0] * numCourses
 
-        for u,v in prerequisites:
-            graph[v].append(u)
-            indegree[u] += 1
-        
+        for v,u in prerequisites:
+            graph[u].append(v)
+            indegree[v] += 1
+
         queue = deque()
-
-        for idx, degree in enumerate(indegree):
-            if degree == 0:
-                queue.append(idx)
         
+        for i, val in enumerate(indegree):
+            if val == 0:
+                queue.append(i)
+
+        nodes_cnt = len(queue)
         while queue:
             node = queue.popleft()
-            visitedNodes += 1
 
             for nei in graph[node]:
                 indegree[nei] -= 1
 
                 if indegree[nei] == 0:
+                    nodes_cnt += 1
                     queue.append(nei)
         
-        if visitedNodes == numCourses:
-            return True
-        
-        return False
-        
+        return nodes_cnt == numCourses

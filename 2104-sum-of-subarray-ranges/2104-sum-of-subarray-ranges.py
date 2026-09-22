@@ -1,64 +1,72 @@
 class Solution:
-    def subArrayRanges(self, nums: List[int]) -> int:
+    def subArrayRanges(self, nums: list[int]) -> int:
         stack = []
-        n = len(nums)
-        left = [0]*n
-        right = [0]*n
+        ans = 0
 
-        for i in range(n):
-            while stack and nums[stack[-1]] > nums[i]:
-                stack.pop()
+        for i, num in enumerate(nums):
+            while stack and nums[stack[-1]] > num:
+                ele_idx = stack.pop()
+                if stack:
+                    left = stack[-1]
+                else:
+                    left = -1
+                
+                right = i
 
-            if stack:
-                left[i] = i - stack[-1]
-            else:
-                left[i] = i+1
+                left_span = ele_idx - left
+                right_span = right - ele_idx
 
-            stack.append(i)
-        
-        stack = []
-        for i in range(n-1,-1,-1):
-            while stack and nums[stack[-1]] >= nums[i]:
-                stack.pop()
+                ans += nums[ele_idx] * left_span * right_span
             
-            if stack:
-                right[i] = stack[-1] - i
-            else:
-                right[i] = n - i
-
             stack.append(i)
-        
-        min = 0
-        for i in range(n):
-            min += nums[i] * left[i] * right[i]
-        
-        stack = []
 
-        for i in range(n):
-            while stack and nums[stack[-1]] < nums[i]:
-                stack.pop()
+        
+        while stack:
+            ele_idx = stack.pop()
+            if stack:
+                left = stack[-1]
+            else:
+                left = -1
             
-            if stack:
-                left[i] = i - stack[-1]
-            else:
-                left[i] = i + 1
+            right = len(nums)
 
-            stack.append(i)
-        
+            left_span = ele_idx - left
+            right_span = right - ele_idx
+
+            ans += nums[ele_idx] * left_span * right_span
+
         stack = []
-        for i in range(n-1,-1,-1):
-            while stack and nums[stack[-1]] <= nums[i]:
-                stack.pop()
+        ans = -ans
+
+        for i, num in enumerate(nums):
+            while stack and nums[stack[-1]] < num:
+                ele_idx = stack.pop()
+                if stack:
+                    left = stack[-1]
+                else:
+                    left = -1
+                
+                right = i
+
+                left_span = ele_idx - left
+                right_span = right - ele_idx
+
+                ans += nums[ele_idx] * left_span * right_span
             
-            if stack:
-                right[i] = stack[-1] - i
-            else:
-                right[i] = n - i
-
             stack.append(i)
-        
-        max = 0
-        for i in range(n):
-            max += nums[i] * left[i] * right[i]
 
-        return max - min
+        while stack:
+            ele_idx = stack.pop()
+            if stack:
+                left = stack[-1]
+            else:
+                left = -1
+            
+            right = len(nums)
+
+            left_span = ele_idx - left
+            right_span = right - ele_idx
+
+            ans += nums[ele_idx] * left_span * right_span
+
+        return ans

@@ -5,28 +5,19 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def distributeCoins(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
-
-        moves = 0
+    def distributeCoins(self, root: TreeNode | None) -> int:
+        
         def helper(node):
-            nonlocal moves
-
             if not node:
-                return 0
+                return 0,0
             
+            left_bal, left_moves = helper(node.left)
+            right_bal, right_moves = helper(node.right)
 
-            left = helper(node.left)
-            right = helper(node.right)
+            cur_bal = left_bal + right_bal + node.val - 1
 
-            moves += abs(left)
-            moves += abs(right)
-
-            bal = node.val + left + right - 1
-
-            return bal
-
-        helper(root)
-        return moves
+            cur_moves = abs(left_moves) + abs(right_moves) + abs(cur_bal)
             
+            return cur_bal, cur_moves
+        
+        return helper(root)[1]

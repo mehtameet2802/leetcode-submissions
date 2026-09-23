@@ -17,6 +17,6 @@ class Solution:
             left = helper(node.left, left, node.val)
             right = helper(node.right, node.val, right)
 
-            return left and right and True
+            return left and right
         
         return helper(root, -float('inf'), float('inf'))

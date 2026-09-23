@@ -1,35 +1,23 @@
 class Solution:
-    def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
+    def checkIfPrerequisite(self, numCourses: int, prerequisites: list[list[int]], queries: list[list[int]]) -> list[bool]:
+        
+        dist = [[False]*numCourses for _ in range(numCourses)]
 
-        INF = float('inf')
-        n = numCourses
-
-        dist = [[INF]*n for _ in range(n)]
-
-        for i in range(n):
-            dist[i][i] = 0
-
+        for i in range(numCourses):
+            dist[i][i] = True
+        
         for u,v in prerequisites:
-            dist[u][v] = min(dist[u][v],1)
+            dist[u][v] = True
 
-        
-        for k in range(n):
-            for i in range(n):
-                for j in range(n):
+        for k in range(numCourses):
+            for i in range(numCourses):
+                if not dist[i][k]:
+                    continue
+                for j in range(numCourses):
+                    dist[i][j] = dist[i][j] or (dist[i][k] and dist[k][j])
 
-                    if dist[i][k] == INF or dist[k][j]==INF:
-                        continue
-                    
-                    dist[i][j] = min(
-                        dist[i][j],
-                        dist[i][k] + dist[k][j]
-                    )
-        
         ans = []
-        for a,b in queries:
-            if dist[a][b] == INF:
-                ans.append(False)
-            else:
-                ans.append(True)
-
+        for u,v in queries:
+            ans.append(dist[u][v])
+        
         return ans

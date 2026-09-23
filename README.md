@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [0652-find-duplicate-subtrees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0690-employee-importance](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0721-accounts-merge) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0687-longest-univalue-path) |
@@ -1628,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0687-longest-univalue-path) |
@@ -1726,6 +1729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0687-longest-univalue-path) |

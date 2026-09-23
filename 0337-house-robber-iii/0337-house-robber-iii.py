@@ -5,41 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def rob(self, root: Optional[TreeNode]) -> int:
+    def rob(self, root: TreeNode | None) -> int:
         
-        # def helper(node):
-        #     if not node:
-        #         return 0
-            
-        #     l1 = l2 = r1 = r2 = 0
-
-        #     if node.left:
-        #         l1 = helper(node.left.left) + helper(node.left.right)
-                
-        #     if node.right:
-        #         r1 = helper(node.right.right) + helper(node.right.left)
-            
-        #     l2 = helper(node.left)
-        #     r2 = helper(node.right)
-
-        #     return max(l1+r1+node.val, l2+r2)
-        
-        # return helper(root)
-
-
         def helper(node):
             if not node:
                 return 0,0
+            
+            left_rob, left_no_rob = helper(node.left)
+            right_rob, right_no_rob = helper(node.right)
 
-            rob_l, skip_l = helper(node.left)
-            rob_r, skip_r = helper(node.right)
-
-            rob = node.val + skip_l + skip_r
-
-            skip = max(rob_l, skip_l) + max(rob_r, skip_r)
-
-            return rob, skip
-
-        rob, skip = helper(root)
-
-        return max(rob, skip)
+            return node.val + left_no_rob + right_no_rob, max(left_rob + right_rob, left_no_rob+right_no_rob, left_rob + right_no_rob, left_no_rob + right_rob)
+        
+        root_rob, root_no_rob = helper(root)
+        return max(root_rob, root_no_rob)

@@ -5,55 +5,39 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
-
-        '''
-        Pattern:
-        - BST
-        - Recursion
-        - Search
-        - Inorder Successor
-
-        TC - O(H)
-        SC - O(H)
-
-        Balanced → O(log N)
-        Worst case → O(N)
-
-        Optimal → Yes
-        '''
+    def deleteNode(self, root: TreeNode | None, key: int) -> TreeNode | None:
         
-        def getNode(node):
-            while node and node.left:
-                node = node.left
-
-            return node
-
-        def delete(node, key):
+        def remove(node, key):
             if not node:
                 return None
 
-            if node.val > key:
-                node.left =  delete(node.left, key)
-            elif node.val < key:
-                node.right =  delete(node.right, key)
+            if node.val == key:
+                if not node.left and not node.right:
+                    return None
+
+                if node.right:
+                    suc = node.right
+
+                    while suc and suc.left:
+                        suc = suc.left
+
+                    node.val = suc.val
+                    node.right = remove(node.right, suc.val)
+                    
+                else:
+                    suc = node.left
+
+                    while suc and suc.right:
+                        suc = suc.right
+                
+                    node.val = suc.val
+                    node.left = remove(node.left, suc.val)
+            
+            elif node.val > key:
+                node.left =  remove(node.left, key)
             else:
-            
-                if not node.left:
-                    return node.right
-                
-                if not node.right:
-                    return node.left
+                node.right = remove(node.right, key)
 
-                new_node = getNode(node.right)
-
-                node.val = new_node.val
-
-                node.right = delete(node.right, new_node.val)
-                
-            
             return node
 
-            
-        
-        return delete(root, key)
+        return remove(root, key)

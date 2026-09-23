@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2762-continuous-subarrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2762-continuous-subarrays) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 | [2866-beautiful-towers-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2866-beautiful-towers-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/mehtameet2802/leetcode-submissions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 ## Hash Table
 |  |
 | ------- |

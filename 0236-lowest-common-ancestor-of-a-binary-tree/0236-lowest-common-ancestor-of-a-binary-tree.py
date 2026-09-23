@@ -7,17 +7,7 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        '''
-        What exactly does helper(node) return?
-        What are the base cases?
-        What does a non-null left result mean?
-        What does a non-null right result mean?
-        When should the current node be returned?
-        How should p and q be compared with a node?
-        Invariant:
-        Expected TC and SC:
-        '''
-
+        
         def helper(node):
             if not node:
                 return None

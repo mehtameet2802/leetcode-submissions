@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0076-minimum-window-substring) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0061-rotate-list) |
@@ -1767,6 +1769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -1948,4 +1951,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

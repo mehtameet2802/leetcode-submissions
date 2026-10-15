@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1024-video-stitching](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1029-two-city-scheduling) |
+| [1043-partition-array-for-maximum-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1052-grumpy-bookstore-owner) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0983-minimum-cost-for-tickets) |
 | [1014-best-sightseeing-pair](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1024-video-stitching) |
+| [1043-partition-array-for-maximum-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |

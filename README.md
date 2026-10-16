@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1054-distant-barcodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1054-distant-barcodes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1024-video-stitching) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -1884,6 +1886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1899,6 +1902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
 ## Graph Coloring
 |  |
 | ------- |

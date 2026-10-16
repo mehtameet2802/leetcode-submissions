@@ -34,21 +34,20 @@ class Solution:
 
         dp = [[False]*(target+1) for _ in range (n+1)]
 
-        dp[n][0] = True
+        dp[0][0] = True
 
-        for i in range(n-1,-1,-1):
+        for i in range(1,n+1):
+            stone = stones[i-1]
             for val in range(target+1):
 
-                skip = dp[i+1][val] 
+                skip = dp[i-1][val] 
 
                 take = False
-                if val >= stones[i]:
-                    take = dp[i+1][val-stones[i]]
+                if val >= stone:
+                    take = dp[i-1][val-stone]
                 
                 dp[i][val] = skip or take
         
         for j in range(target,-1,-1):
-            if dp[0][j] == True:
+            if dp[n][j] == True:
                 return total - 2 *j
-        
-        return 0

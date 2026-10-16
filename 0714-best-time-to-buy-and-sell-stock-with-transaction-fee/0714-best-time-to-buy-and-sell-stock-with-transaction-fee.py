@@ -1,33 +1,51 @@
 class Solution:
-    def maxProfit(self, prices: List[int], fee: int) -> int:
+    # def maxProfit(self, prices: list[int], fee: int) -> int:
+    #     # common - we do not sell or buy just move on to next day with same hold state
+    #     # holding - we sell and move on to next day so we also pay the fee
+    #     # not holding - we buy and move on to next day
+        
+    #     n = len(prices)
+    #     def solve(day, holding):
 
-        '''
-        Pattern - Recursion + DP
+    #         if day >= n:
+    #             return 0
+            
+    #         skip = solve(day+1,holding)
 
-        TC - O(n)
-        SC - O(n)
-        '''
+    #         if holding:
+    #             action = solve(day+1, False) + prices[day] - fee
+    #         else:
+    #             action = solve(day+1, True) - prices[day]
+        
+    #         return max(skip, action)
+    
+    #     return solve(0, False)
 
-        mem = {}
+
+    def maxProfit(self, prices: list[int], fee: int) -> int:
+        # common - we do not sell or buy just move on to next day with same hold state
+        # holding - we sell and move on to next day so we also pay the fee
+        # not holding - we buy and move on to next day
+        
         n = len(prices)
+        dp = {}
+        def solve(day, holding):
 
-        def helper(i, have_stock):
-
-            if (i,have_stock) in mem:
-                return mem[(i,have_stock)]
-
-            if i>=n:
+            if day >= n:
                 return 0
             
-            if have_stock:
-                a1 = helper(i+1, False) + prices[i] - fee
+            state = (day,holding)
+            if state in dp:
+                return dp[state]
+            
+            skip = solve(day+1,holding)
+
+            if holding:
+                action = solve(day+1, False) + prices[day] - fee
             else:
-                a1 = helper(i+1, True) - prices[i]
+                action = solve(day+1, True) - prices[day]
 
-            a2 = helper(i+1, have_stock)
-
-            ans = max(a1,a2)
-            mem[(i,have_stock)] = ans
-            return ans
-        
-        return helper(0, False)
+            dp[state] = max(skip, action)
+            return dp[state]
+    
+        return solve(0, False)

@@ -53,23 +53,45 @@ class Solution:
     #     return -1 if ans == float('inf') else ans
 
 
+    # def coinChange(self, coins: list[int], amount: int) -> int:
+        
+    #     n = len(coins)
+    #     dp = [[float('inf')]*(amount+1) for _ in range(n+1)]
+        
+    #     dp[0][0] = 0
+
+    #     for i in range(1,n+1):
+    #         coin = coins[i-1]
+    #         for val in range(amount+1):
+    #             skip = dp[i-1][val]
+
+    #             take = float('inf')
+    #             if val >= coin:
+    #                 take = 1 + dp[i][val - coin]
+
+    #             dp[i][val] = min(skip,take)
+        
+    #     ans = dp[n][amount]
+    #     return -1 if ans == float('inf') else ans
+
+
     def coinChange(self, coins: list[int], amount: int) -> int:
         
         n = len(coins)
-        dp = [[float('inf')]*(amount+1) for _ in range(n+1)]
+        dp = [float('inf')]*(amount+1)
         
-        dp[0][0] = 0
+        dp[0] = 0
 
         for i in range(1,n+1):
             coin = coins[i-1]
             for val in range(amount+1):
-                skip = dp[i-1][val]
+                skip = dp[val]
 
                 take = float('inf')
                 if val >= coin:
-                    take = 1 + dp[i][val - coin]
+                    take = 1 + dp[val - coin]
 
-                dp[i][val] = min(skip,take)
+                dp[val] = min(skip,take)
         
-        ans = dp[n][amount]
+        ans = dp[amount]
         return -1 if ans == float('inf') else ans

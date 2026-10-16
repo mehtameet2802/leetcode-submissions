@@ -27,27 +27,53 @@
 #         return 0
 
 class Solution:
+    # def lastStoneWeightII(self, stones: list[int]) -> int:
+    #     total = sum(stones)
+    #     target = total // 2
+    #     n = len(stones)
+
+    #     dp = [[False]*(target+1) for _ in range (n+1)]
+
+    #     dp[0][0] = True
+
+    #     for i in range(1,n+1):
+    #         stone = stones[i-1]
+    #         for val in range(target+1):
+
+    #             skip = dp[i-1][val] 
+
+    #             take = False
+    #             if val >= stone:
+    #                 take = dp[i-1][val-stone]
+                
+    #             dp[i][val] = skip or take
+        
+    #     for j in range(target,-1,-1):
+    #         if dp[n][j] == True:
+    #             return total - 2 *j
+
+
     def lastStoneWeightII(self, stones: list[int]) -> int:
         total = sum(stones)
         target = total // 2
         n = len(stones)
 
-        dp = [[False]*(target+1) for _ in range (n+1)]
+        dp = [False]*(target+1)
 
-        dp[0][0] = True
+        dp[0] = True
 
         for i in range(1,n+1):
             stone = stones[i-1]
-            for val in range(target+1):
+            for val in range(target, stone-1,-1):
 
-                skip = dp[i-1][val] 
+                skip = dp[val] 
 
                 take = False
                 if val >= stone:
-                    take = dp[i-1][val-stone]
+                    take = dp[val-stone]
                 
-                dp[i][val] = skip or take
+                dp[val] = skip or take
         
         for j in range(target,-1,-1):
-            if dp[n][j] == True:
+            if dp[j] == True:
                 return total - 2 *j

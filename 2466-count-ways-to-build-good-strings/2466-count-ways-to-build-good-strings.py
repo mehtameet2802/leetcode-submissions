@@ -42,7 +42,9 @@ class Solution:
 
     def countGoodStrings(self, low: int, high: int, zero: int, one: int) -> int:
         
-        dp = [0]*(high+zero+one)
+        limit = max(zero,one)
+
+        dp = [0]*(high+limit+1)
 
         for length in range(high,-1,-1):
             if length >= low:

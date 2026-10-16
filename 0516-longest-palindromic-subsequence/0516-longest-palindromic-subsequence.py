@@ -25,35 +25,60 @@ class Solution:
     #     return solve(0,n-1)
 
 
+    # def longestPalindromeSubseq(self, s: str) -> int:
+
+    #     # dp[left][right] means: - longest palindromic sub string in s[l:r+1]
+    #     # Smallest interval initialized: l == r, length 1
+    #     # Which shorter intervals does a state read? - if s[l] == s[r],it checks s[l+1:r] else it checks s[l+1:r], s[l:r]
+    #     # Should interval length grow or shrink? it should shrink
+    #     # Valid fill order: - left - left to right, and right is bottom to up 
+    #     # Final return cell: 
+
+
+    #     n = len(s)
+    #     dp = {}
+    #     def solve(l,r):
+    #         if l>r:
+    #             return 0
+            
+    #         if l == r:
+    #             return 1
+
+    #         state = (l,r)
+
+    #         if state in dp:
+    #             return dp[state]
+            
+    #         if s[l] == s[r]:
+    #             dp[state] =2 + solve(l+1,r-1)
+    #         else:
+    #             dp[state] = max(solve(l+1,r), solve(l,r-1))
+
+    #         return dp[state]
+
+    #     return solve(0,n-1)
+
+
     def longestPalindromeSubseq(self, s: str) -> int:
 
         # dp[left][right] means: - longest palindromic sub string in s[l:r+1]
         # Smallest interval initialized: l == r, length 1
         # Which shorter intervals does a state read? - if s[l] == s[r],it checks s[l+1:r] else it checks s[l+1:r], s[l:r]
         # Should interval length grow or shrink? it should shrink
-        # Valid fill order: - left - left to right, and right is bottom to up 
+        # Valid fill order: - left - bottom to top, and right is left to right 
         # Final return cell: 
 
 
         n = len(s)
-        dp = {}
-        def solve(l,r):
-            if l>r:
-                return 0
+        dp = [[0]*(n) for _ in range(n)]
+
+        for right in range(n):
+            dp[right][right] = 1
             
-            if l == r:
-                return 1
-
-            state = (l,r)
-
-            if state in dp:
-                return dp[state]
-            
-            if s[l] == s[r]:
-                dp[state] =2 + solve(l+1,r-1)
-            else:
-                dp[state] = max(solve(l+1,r), solve(l,r-1))
-
-            return dp[state]
-
-        return solve(0,n-1)
+            for left in range(right-1,-1,-1):
+                if s[left] == s[right]:
+                    dp[left][right] = 2 + dp[left+1][right-1]
+                else:
+                    dp[left][right] = max(dp[left+1][right], dp[left][right-1])
+        
+        return dp[0][n-1]

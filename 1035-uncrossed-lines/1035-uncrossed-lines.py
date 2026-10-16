@@ -38,17 +38,35 @@ class Solution:
     #     return solve(0,0)
 
 
+    # def maxUncrossedLines(self, nums1: list[int], nums2: list[int]) -> int:
+    #     m = len(nums1)
+    #     n = len(nums2)
+
+    #     dp = [[0]*(n+1) for _ in range(m+1)]
+
+    #     for i in range(m-1,-1,-1):
+    #         for j in range(n-1,-1,-1):
+    #             if nums1[i] == nums2[j]:
+    #                 dp[i][j] = 1 + dp[i+1][j+1]
+    #             else:
+    #                 dp[i][j] = max(dp[i+1][j], dp[i][j+1])
+        
+    #     return dp[0][0]
+
+
     def maxUncrossedLines(self, nums1: list[int], nums2: list[int]) -> int:
         m = len(nums1)
         n = len(nums2)
 
-        dp = [[0]*(n+1) for _ in range(m+1)]
+        nxt = [0]*(n+1)
 
         for i in range(m-1,-1,-1):
+            cur = [0]*(n+1)
             for j in range(n-1,-1,-1):
                 if nums1[i] == nums2[j]:
-                    dp[i][j] = 1 + dp[i+1][j+1]
+                    cur[j] = 1 + nxt[j+1]
                 else:
-                    dp[i][j] = max(dp[i+1][j], dp[i][j+1])
-        
-        return dp[0][0]
+                    cur[j] = max(nxt[j], cur[j+1])
+            nxt = cur
+
+        return nxt[0]

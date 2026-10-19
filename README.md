@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1054-distant-barcodes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1094-car-pooling) |
+| [1105-filling-bookcase-shelves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1105-filling-bookcase-shelves) |
 | [1109-corporate-flight-bookings](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1122-relative-sort-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1049-last-stone-weight-ii) |
+| [1105-filling-bookcase-shelves](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1105-filling-bookcase-shelves) |
 | [1137-n-th-tribonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1162-as-far-from-land-as-possible) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |

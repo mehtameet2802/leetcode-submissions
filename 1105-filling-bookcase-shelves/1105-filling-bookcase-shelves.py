@@ -96,4 +96,4 @@ class Solution:
             
             dp[start] = answer
         
-        return max(dp)
+        return dp[0]

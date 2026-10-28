@@ -1,29 +1,21 @@
 class Solution:
-    def minGroups(self, intervals: List[List[int]]) -> int:
-        '''
-        Pattern - Sweep Line
-
-        TC - O(N log N)
-            - Create 2N events: O(N)
-            - Sort events: O(N log N)
-            - Sweep events: O(N)
-
-        SC - O(N)
-            - Stores 2N events
-        '''
-
+    def minGroups(self, intervals: list[list[int]]) -> int:
+        intervals.sort(key = lambda x:x[0])
+        
+        min_heap = []
+        
         ans = 0
 
-        events = []
+        for i in range(len(intervals)):
+            if not min_heap:
+                heapq.heappush(min_heap, intervals[i][1])
+            else:
+                if min_heap[0] < intervals[i][0]:
+                    heapq.heappop(min_heap)
+                    heapq.heappush(min_heap, intervals[i][1])
+                else:
+                    heapq.heappush(min_heap, intervals[i][1])
+            
+            ans = max(ans, len(min_heap))
 
-        for start, end in intervals:
-            events.append((start,1))
-            events.append((end+1,-1))
-
-        events.sort()
-
-        cur = 0
-        for event in events:
-            cur += event[1]
-            ans = max(ans,cur)
         return ans

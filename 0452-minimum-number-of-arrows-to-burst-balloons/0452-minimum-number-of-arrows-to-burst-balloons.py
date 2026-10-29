@@ -7,9 +7,8 @@ class Solution:
         end = points[0][1]
 
         for i in range(1,n):
-            if points[i][0] <= end:
-                continue
-            else:
+            if points[i][0] > end:
                 arrows += 1
-                end = points[i][1]        
+                end = points[i][1]
+                        
         return arrows

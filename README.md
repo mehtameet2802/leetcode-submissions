@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0911-online-election) |
 | [0930-binary-subarrays-with-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0970-powerful-integers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0970-powerful-integers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0781-rabbits-in-forest) |
+| [0970-powerful-integers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0970-powerful-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -1885,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/mehtameet2802/leetcode-submissions/tree/master/0970-powerful-integers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mehtameet2802/leetcode-submissions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bitmask
 |  |
